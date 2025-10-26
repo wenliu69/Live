@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视",CCTV1
+http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV2 
+http://api.kkitv.itv888.cn:8080/hls/4nlkhc68gfu/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV3
+http://api.kkitv.itv888.cn:8080/hls/aikp69mli0d/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV4
+http://api.kkitv.itv888.cn:8080/hls/25uo2rutach/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视",CCTV13
+http://z.b.bkpcp.top/m.php?id=cctv13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/phoenix-chinese-channel-hk.png" group-title="香港",鳳凰卫视
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF.png" group-title="香港",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/phoenix-hk-channel-hk.png" group-title="香港",鳳凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="香港",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/tvb-news-channel-hk.png" group-title="香港",无线新闻台
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/tvb-news-channel-hk.png" group-title="香港",TVB娱乐新闻台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="香港",翡翠华丽台
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="香港",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="香港",Pearl 
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/cuxyzk11/production/5404fecade653eed404e449be1cca378cfabcbe4-1921x888.png?fit=max&auto=format" group-title="香港",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/viu-tv-hk.png" group-title="香港",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/viu-tv-six-hk.png" group-title="香港",ViuTV6
+http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/rthk-tv-31-hk.png" group-title="香港",RTHK31
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/rthk-tv-32-hk.png" group-title="香港",RTHK32
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-logo-2013-default-us.png" group-title="国外",ABC
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/refs/heads/master/countries/united-kingdom/bbc-news-hz-uk.png" group-title="国外",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/refs/heads/master/countries/united-states/cnn-us.png" group-title="国外",CNN
+https://jmp2.uk/stvp-GBBD8000016N
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/960px-CBS_News.svg.png" group-title="国外",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/LiveNOW_from_FOX.png/960px-LiveNOW_from_FOX.png" group-title="国外",Fox News Now
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bcHP3Vg.png“ group-title="国外",Global BC
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/1200px-Global_News.svg.png" group-title="国外",Global News 
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1772318214921347072/tKPbUtvn_400x400.jpg" group-title="国外",City News Calgary
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/06/19090059/AdventureEarth.jpeg" group-title="国外",Adventure Earth
+https://autentic-adventure-earth-1-fi.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="国外",热爱大自然
+http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/5001/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/960px-BBC_Earth_2023.svg.png" group-title="国外",BBC Earth 
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3aXkYaF--frEhkvyM7hSxCFtihD35NQZgCIk9NiSiYg&s" group-title="国外",Travel XP
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2021/12/wildearth8729.jpg?fit=250%2C250&ssl=1" group-title="国外",Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 tvg-logo="https://stmify.com/wp-content/uploads/2024/11/354-s-768x432.webp" group-title="国外",4K Travel
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/1967b0de-bf90-4339-a563-a5d06bba32ed/2.m3u8
