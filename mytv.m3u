@@ -37,7 +37,7 @@ http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/rthk-tv-32-hk.png" group-title="香港",RTHK32
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 tvg-logo="https://zh.wikipedia.org/zh-cn/中天新聞台#/media/File%3ACTI_News_Logo.jpg" group-title="台湾",中天新闻
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" group-title="台湾",中天新闻
 https://k44991.kylintv.tv/live/cti_iphone.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-logo-2013-default-us.png" group-title="国外",ABC
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
