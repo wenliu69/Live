@@ -41,6 +41,8 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 https://k44991.kylintv.tv/live/cti_iphone.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/195/929/png-clipart-taiwan-logo-tvbs-wikipedia-logos-blue-text.png" group-title="台湾",TVBS
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 tvg-logo="https://aqs-systems.com/wp-content/uploads/2022/01/logo_tvbs-1024x515.png" group-title="台湾",TVBS News
+http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-logo-2013-default-us.png" group-title="国外",ABC
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/refs/heads/master/countries/united-kingdom/bbc-news-hz-uk.png" group-title="国外",BBC News
