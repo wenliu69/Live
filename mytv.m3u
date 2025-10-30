@@ -65,7 +65,7 @@ https://jmp2.uk/stvp-GBBD8000016N
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/LiveNOW_from_FOX.png/960px-LiveNOW_from_FOX.png" group-title="国外",Fox News Now
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Global_BC_logo_since_2022.svg/250px-Global_BC_logo_since_2022.svg.png“ group-title="国外",Global BC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMW0zcASiM0i0aYhhYi6ygkMyFBhCp2yQg6w&usqp=CAU“ group-title="国外",Global BC
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://premier-renovations.com/wp-content/uploads/2020/06/1200px-Global_News.svg_-1024x574.png" group-title="国外",Global News 
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
