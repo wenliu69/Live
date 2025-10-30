@@ -71,6 +71,8 @@ https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737d
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1772318214921347072/tKPbUtvn_400x400.jpg" group-title="国外",City News Calgary
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/CNBC-Asia-%E8%B2%A1%E7%B6%93%E5%8F%B0.png" group-title="国外",CNBC亞洲
+https://tv.iill.top/4gtv/4gtv-live130
 #EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/06/19090059/AdventureEarth.jpeg" group-title="国外",Adventure Earth
 https://autentic-adventure-earth-1-fi.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="国外",热爱大自然
