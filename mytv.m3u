@@ -76,7 +76,7 @@ https://debate-elections-2019.akamaized.net/1159b64905eb49bbb9c7b7e0d5c88624/us-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1772318214921347072/tKPbUtvn_400x400.jpg" group-title="国外",City News Calgary
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/TWN_Logo_2011.svg/640px-TWN_Logo_2011.svg.png" group-title="国外",The Weather Network
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40658.ts
+http://38.143.48.212:9981/stream/channelid/524858336?profile=pass
 #EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/06/19090059/AdventureEarth.jpeg" group-title="国外",Adventure Earth
 https://autentic-adventure-earth-1-fi.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/960px-BBC_Earth_2023.svg.png" group-title="国外",BBC Earth 
