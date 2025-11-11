@@ -71,7 +71,7 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-BC_GuideLogo_240x144.png" group-title="国外",Global BC
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Omni_TV_2018.svg/1200px-Omni_TV_2018.svg.png" group-title="国外",Omni BC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Omni_TV_2018.svg/1200px-Omni_TV_2018.svg.png" group-title="国外",Omni
 https://debate-elections-2019.akamaized.net/1159b64905eb49bbb9c7b7e0d5c88624/us-west-2/89871584001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1772318214921347072/tKPbUtvn_400x400.jpg" group-title="国外",City News Calgary
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
