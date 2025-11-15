@@ -50,7 +50,7 @@ http://hls.168.us.kg/u/331/master.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/台視.png" group-title="台湾",台視新聞
 http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" group-title="台湾",中天新聞
-http://smtp.tcxlife.com:8080/live/yifatv-ztxw02.m3u8
+http://smtp.tcxlife.com:8080/live/yifatv-ztxw01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/EBC_News_logo_20150706.jpg" group-title="台湾",東森新聞
 http://211.72.174.95:8138/0.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png" group-title="台湾",TVBS Asia
