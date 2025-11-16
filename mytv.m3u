@@ -47,7 +47,7 @@ http://hls.168.us.kg/u/332/master.m3u8
 http://hls.168.us.kg/u/333/master.m3u8
 #EXTINF:-1 tvg-id="NOW直播" tvg-name="NOW直播" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png" group-title="香港",Now直播台
 http://hls.168.us.kg/u/331/master.m3u8
-#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://epg.iill.top/logo/台視.png" group-title="台湾",台視新聞
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/台視.png" group-title="台湾",台視新聞
 http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" group-title="台湾",中天新聞
 http://smtp.tcxlife.com:8080/live/yifatv-ztxw01.m3u8
