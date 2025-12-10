@@ -69,10 +69,6 @@ http://211.72.174.95:8114/0.ts
 http://211.72.174.95:8113/0.ts
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.iill.top/logo/台視.png" group-title="台湾",台視
 http://211.72.174.95:8112/0.ts
-#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://epg.iill.top/logo/%E4%B8%89%E7%AB%8BiNEWS.png" group-title="台湾",三立新聞
-https://tv.iill.top/4gtv/4gtv-live089
-#EXTINF:-1 tvg-id="三立综合" tvg-name="三立综合" tvg-logo="https://epg.iill.top/logo/%E4%B8%89%E7%AB%8B%E7%BB%BC%E5%90%88.png" group-title="台湾",三立綜合
-https://tv.iill.top/4gtv/4gtv-live207
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-title="国外",ABC News Live
 https://amg00497-lgus-amg00497c3-lg-us-2779.playouts.now.amagi.tv/playlist/amg00497-lgelectronicsusafast-abcnewslive-lgus/playlist.m3u8?ads.deviceid=%5BDEVICE_ID%5D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ua=%5BUA%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.usprivacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.appname=%5BAPP_NAME%5D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&fck=%5BFCK%5D&viewsize=%5BVIEWSIZE%5D&givn=%5BNONCE%5D
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/refs/heads/master/countries/united-kingdom/bbc-news-hz-uk.png" group-title="国外",BBC News
