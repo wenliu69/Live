@@ -53,10 +53,13 @@ https://stream1.freetv.fun/b56bee75906bfad78f50f3eccffccdc4ed2dfe763f4fd01135948
 https://stream1.freetv.fun/3f31f2dce2add4c7542daf68797a0bf424ceff7fb57654cbcf47f6b095189809.m3u8
 #EXTINF:-1 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_mobile.png" group-title="台湾",台視新聞
 http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9a/CTI_Official_Logo.svg/1200px-CTI_Official_Logo.svg.png" group-title="台湾",中天新聞
-https://k44991.kylintv.tv/live/cti_iphone.m3u8
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/EBC_News_logo_20150706.jpg" group-title="台湾",東森新聞
 http://211.72.174.95:8138/0.ts
+
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9a/CTI_Official_Logo.svg/1200px-CTI_Official_Logo.svg.png" group-title="台湾",中天新聞
+http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=QWD9GU&tk=jcmngPC64ClK
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b0/Chinatvnews.jpg" group-title="台湾",中視新聞
+http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=d3Lwul&tk=jcmngPC64ClK
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS.png" group-title="台湾",TVBS
 http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=1IXyDV&tk=jcmngPC64ClK
 #EXTINF:-1 tvg-id="TVBS亚洲" tvg-name="TVBS亚洲" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png" group-title="台湾",TVBS Asia
