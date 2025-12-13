@@ -55,8 +55,6 @@ https://stream1.freetv.fun/3f31f2dce2add4c7542daf68797a0bf424ceff7fb57654cbcf47f
 http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/EBC_News_logo_20150706.jpg" group-title="台湾",東森新聞
 http://211.72.174.95:8138/0.ts
-#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://epg.iill.top/logo/%E4%B8%89%E7%AB%8BiNEWS.png" group-title="台湾",三立新聞
-http://210.61.15.55:50007/iNEWS/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9a/CTI_Official_Logo.svg/1200px-CTI_Official_Logo.svg.png" group-title="台湾",中天新聞
 http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=QWD9GU&tk=jcmngPC64ClK
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b0/Chinatvnews.jpg" group-title="台湾",中視新聞
