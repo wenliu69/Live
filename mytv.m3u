@@ -54,18 +54,7 @@ http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 http://210.61.15.55:50007/li-4gtv-4gtv152/index.m3u8?proxy=true 
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9a/CTI_Official_Logo.svg/1200px-CTI_Official_Logo.svg.png" group-title="台湾",中天新聞
 http://210.61.15.55:50007/4gtv-4gtv009/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="台湾",TVBS新聞
-http://smart.cityq.xyz:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
-#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b0/Chinatvnews.jpg" group-title="台湾",中視新聞
-http://210.61.15.55:50007/4gtv-4gtv074/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://epg.iill.top/logo/%E4%B8%89%E7%AB%8BiNEWS.png" group-title="台湾",三立新聞
-http://210.61.15.55:50007/iNEWS/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9a/CTI_Official_Logo.svg/1200px-CTI_Official_Logo.svg.png" group-title="台湾",中天亞洲台
-http://210.61.15.55:50007/4gtv-4gtv109/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS.png" group-title="台湾",TVBS
-http://210.61.15.55:50007/4gtv-4gtv073/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合" tvg-logo="https://www.ebc.net.tw/upload/index/img/logoes/mobile_logo.png" group-title="台湾",東森綜合
-http://smart.cityq.xyz:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
+
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.iill.top/logo/%E8%8F%AF%E8%A6%96.png" group-title="台湾",華視
 http://211.72.174.95:8114/0.ts
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/22/CTV_text.png" group-title="台湾",中視
