@@ -107,7 +107,7 @@ http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/14026/index.m3u8
 http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/5001/index.m3u8
 #EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视" http-user-agent="AptvPlayer-UA" group-title="4K",浙江卫视4K
 http://101.35.240.114:88/live.php?id=浙江卫视4K
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="香港",翡翠台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="4K",翡翠台
 http://cdn6.163189.xyz/163189/fct4k
 
 
