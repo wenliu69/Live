@@ -94,6 +94,8 @@ https://debate-elections-2019.akamaized.net/1159b64905eb49bbb9c7b7e0d5c88624/us-
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 #EXTINF:-1 tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="国外",CityTV Vancouver
 http://tv14s.xyz:8080/3vUZc1/978269/57395
+#EXTINF:-1 tvg-id="CityTvCalgary-CKAL.ca" tvg-name="CITY CALGARY" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="国外",City TV Calgary
+http://zerotwo.access.ly:2096/Mila225/344987/761377
 #EXTINF:-1 tvg-id="CTVCalgary-CFCN.ca" tvg-name="CTV CALGARY" tvg-logo="https://e7.pngegg.com/pngimages/938/898/png-clipart-ottawa-ctv-news-ctv-vancouver-ctv-television-network-international-coach-federation-television-text-thumbnail.png" group-title="国外",CTV CALGARY
 http://zerotwo.access.ly:2096/Mila225/344987/761400
 #EXTINF:-1 tvg-id="CTV2VancouverVictoria-CIVI.ca" tvg-name="CTV 2 VANCOUVER" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/T2uS3V6.png" group-title="CANADA",CTV 2 VANCOUVER
