@@ -94,12 +94,7 @@ https://debate-elections-2019.akamaized.net/1159b64905eb49bbb9c7b7e0d5c88624/us-
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 #EXTINF:-1 tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="国外",CityTV Vancouver
 http://tv14s.xyz:8080/3vUZc1/978269/57395
-#EXTINF:-1 tvg-id="CityTvCalgary-CKAL.ca" tvg-name="CITY CALGARY" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="国外",City TV Calgary
-http://zerotwo.access.ly:2096/Mila225/344987/761377
-#EXTINF:-1 tvg-id="CTVCalgary-CFCN.ca" tvg-name="CTV CALGARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/1280px-CTV_logo_2018.svg.png" group-title="国外",CTV CALGARY
-http://zerotwo.access.ly:2096/Mila225/344987/761400
-#EXTINF:-1 tvg-id="CTV2VancouverVictoria-CIVI.ca" tvg-name="CTV2 VANCOUVER" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/T2uS3V6.png" group-title="国外",CTV2 VANCOUVER
-http://zerotwo.access.ly:2096/Mila225/344987/761397
+
 #EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/06/19090059/AdventureEarth.jpeg" group-title="国外",Adventure Earth
 https://autentic-adventure-earth-1-fi.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/960px-BBC_Earth_2023.svg.png" group-title="国外",BBC Earth 
