@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz,https://epg.aptv.app/xml"
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+http://125.108.127.164:7777/udp/233.50.200.99:5140
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV2
 http://125.108.127.164:7777/udp/233.50.200.100:5140
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV3
