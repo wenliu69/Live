@@ -98,7 +98,7 @@ https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m
 http://zerotwo.access.ly:2096/Mila225/344987/761381
 #EXTINF:-1 tvg-id="CityTvCalgary-CKAL.ca" tvg-name="CITY CALGARY" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="国外",City TV Calgary
 http://zerotwo.access.ly:2096/Mila225/344987/761377
-#EXTINF:-1 tvg-id="CTVCalgary-CFCN.ca" tvg-name="CTV CALGARY" tvg-logo="https://e7.pngegg.com/pngimages/938/898/png-clipart-ottawa-ctv-news-ctv-vancouver-ctv-television-network-international-coach-federation-television-text-thumbnail.png" group-title="国外",CTV CALGARY
+#EXTINF:-1 tvg-id="CTVCalgary-CFCN.ca" tvg-name="CTV CALGARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/1280px-CTV_logo_2018.svg.png" group-title="国外",CTV CALGARY
 http://zerotwo.access.ly:2096/Mila225/344987/761400
 #EXTINF:-1 tvg-id="CTV2VancouverVictoria-CIVI.ca" tvg-name="CTV2 VANCOUVER" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/T2uS3V6.png" group-title="国外",CTV2 VANCOUVER
 http://zerotwo.access.ly:2096/Mila225/344987/761397
