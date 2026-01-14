@@ -59,15 +59,15 @@ http://free.cnlive.club/channel/n88aa83.m3u8
 http://free.cnlive.club/channel/428f1dfa.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="台湾",TVBS新聞
 http://205.185.120.57:8081/channel/409fe5da/index.m3u8
+#EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合" tvg-logo="https://www.ebc.net.tw/upload/index/img/logoes/mobile_logo.png" group-title="台湾",東森綜合
+http://free.cnlive.club/channel/n31b0a4.m3u8
+
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.iill.top/logo/%E8%8F%AF%E8%A6%96.png" group-title="台湾",華視
 http://211.72.174.95:8114/0.ts
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/22/CTV_text.png" group-title="台湾",中視
 http://211.72.174.95:8113/0.ts
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.iill.top/logo/台視.png" group-title="台湾",台視
 http://211.72.174.95:8112/0.ts
-#EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合" tvg-logo="https://www.ebc.net.tw/upload/index/img/logoes/mobile_logo.png" group-title="台湾",東森綜合
-http://free.cnlive.club/channel/n31b0a4.m3u8
-
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9a/CTI_Official_Logo.svg/1200px-CTI_Official_Logo.svg.png" group-title="台湾",中天新聞
 https://k44991.kylintv.tv/live/cti_iphone.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-title="国外",ABC News Live
