@@ -55,6 +55,8 @@ http://free.cnlive.club/channel/41d8a09d.m3u8
 http://211.72.174.95:8117/0.ts
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/EBC_News_logo_20150706.jpg" group-title="台湾",東森新聞
 http://free.cnlive.club/channel/n88aa83.m3u8
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b0/Chinatvnews.jpg" group-title="台湾",中視新聞
+http://free.cnlive.club/channel/428f1dfa.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="台湾",TVBS新聞
 http://205.185.120.57:8081/channel/409fe5da/index.m3u8
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.iill.top/logo/%E8%8F%AF%E8%A6%96.png" group-title="台湾",華視
