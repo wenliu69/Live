@@ -52,7 +52,7 @@ http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 #EXTINF:-1 tvg-id="民视新闻" tvg-name="民視新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/民視新聞台.svg/2560px-民視新聞台.svg.png" group-title="台湾",民視新聞
 http://211.72.174.95:8117/0.ts
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9a/CTI_Official_Logo.svg/1200px-CTI_Official_Logo.svg.png" group-title="台湾",中天新聞
-http://free.cnlive.club/channel/41d5ac2a.m3u8
+http://free.cnlive.club/channel/n3ee59a96.m3u8
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/EBC_News_logo_20150706.jpg" group-title="台湾",東森新聞
 http://free.cnlive.club/channel/n88aa83.m3u8
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b0/Chinatvnews.jpg" group-title="台湾",中視新聞
