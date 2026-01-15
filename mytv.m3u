@@ -58,7 +58,7 @@ http://free.cnlive.club/channel/n88aa83.m3u8
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b0/Chinatvnews.jpg" group-title="台湾",中視新聞
 http://free.cnlive.club/channel/428f1dfa.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="台湾",TVBS新聞
-http://205.185.120.57:8081/channel/409fe5da/index.m3u8
+http://free.cnlive.club/channel/n69ccce92.m3u8
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://epg.iill.top/logo/%E4%B8%89%E7%AB%8BiNEWS.png" group-title="台湾",三立新聞
 http://free.cnlive.club/channel/n760b8cd0.m3u8
 #EXTINF:-1 tvg-id=“镜新闻" tvg-name="镜新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/MNEWS_logo.svg/1280px-MNEWS_logo.svg.png" group-title="台湾”,鏡新聞
