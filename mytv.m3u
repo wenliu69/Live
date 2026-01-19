@@ -56,7 +56,7 @@ http://free.cnlive.club/channel/41d8a09d.m3u8
 
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTV1.png" group-title="台湾",中視新聞
 http://free.cnlive.club/channel/1fb6a073.m3u8
-#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://epg.iill.top/logo/%E4%B8%89%E7%AB%8BiNEWS.png" group-title="台湾",三立新聞
+#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://epg.iill.top/logo/三立iNEWS.png" group-title="台湾",三立新聞
 http://free.cnlive.club/channel/n760b8cd0.m3u8
 #EXTINF:-1 tvg-id=“镜新闻" tvg-name="镜新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/MNEWS_logo.svg/960px-MNEWS_logo.svg.png" group-title="台湾",鏡新聞
 http://free.cnlive.club/channel/n3526701e.m3u8
