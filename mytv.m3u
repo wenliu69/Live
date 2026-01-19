@@ -51,12 +51,14 @@ http://hls.168.us.kg/u/331/master.m3u8
 http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 #EXTINF:-1 tvg-id="民视新闻" tvg-name="民視新闻" tvg-logo="https://live.fanmingming.cn/tv/民视新闻台.png" group-title="台湾",民視新聞
 http://211.72.174.95:8117/0.ts
+#EXTINF:-1 tvg-id=“镜新闻" tvg-name="镜新闻" tvg-logo="https://pavilion.taicca.tw/wp-content/uploads/2024/09/MIRROR-TV-INC_LOGO.jpg" group-title="台湾",鏡新聞
+https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
+
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="台湾",中天新聞
 http://free.cnlive.club/channel/41d8a09d.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="台湾",TVBS新聞
 http://free.cnlive.club/channel/n69ccce92.m3u8
-#EXTINF:-1 tvg-id=“镜新闻" tvg-name="镜新闻" tvg-logo="https://pavilion.taicca.tw/wp-content/uploads/2024/09/MIRROR-TV-INC_LOGO.jpg" group-title="台湾",鏡新聞
-https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
+
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/EBCNews.png" group-title="台湾",東森新聞
 http://free.cnlive.club/channel/n88aa83.m3u8
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS.png" group-title="台湾",TVBS
