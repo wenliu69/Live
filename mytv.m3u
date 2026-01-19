@@ -64,7 +64,7 @@ http://free.cnlive.club/channel/n3526701e.m3u8
 http://free.cnlive.club/channel/n88aa83.m3u8
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS.png" group-title="台湾",TVBS
 http://free.cnlive.club/channel/154f9d73.m3u8
-http://free.cnlive.club/channel/n31b0a4.m3u8
+
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.iill.top/logo/%E8%8F%AF%E8%A6%96.png" group-title="台湾",華視
 http://211.72.174.95:8114/0.ts
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTV.png" group-title="台湾",中視
