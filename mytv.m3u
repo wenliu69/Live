@@ -49,7 +49,7 @@ http://hls.168.us.kg/u/333/master.m3u8
 http://hls.168.us.kg/u/331/master.m3u8
 #EXTINF:-1 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_mobile.png" group-title="台湾",台視新聞
 http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-#EXTINF:-1 tvg-id="民视新闻" tvg-name="民視新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/民視新聞台.svg/2560px-民視新聞台.svg.png" group-title="台湾",民視新聞
+#EXTINF:-1 tvg-id="民视新闻" tvg-name="民視新闻" tvg-logo="https://live.fanmingming.cn/tv/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="台湾",民視新聞
 http://211.72.174.95:8117/0.ts
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9a/CTI_Official_Logo.svg/1200px-CTI_Official_Logo.svg.png" group-title="台湾",中天新聞
 http://free.cnlive.club/channel/41d8a09d.m3u8
