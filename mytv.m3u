@@ -112,7 +112,8 @@ http://zerotwo.access.ly:2096/Mila225/344987/761400
 #EXTINF:-1 tvg-name="CTV2 Vancouver Island” tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/T2uS3V6.png" group-title="国外",CTV2 Vancouver Island
 http://tv14s.xyz:8080/3vUZc1/978269/57316
 
-
+#EXTINF:-1 tvg-id="动物星球" tvg-name="动物星球" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="国外",动物星球
+https://tv.iill.top/x/dwxq
 #EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/06/19090059/AdventureEarth.jpeg" group-title="国外",Adventure Earth
 https://autentic-adventure-earth-1-fi.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/960px-BBC_Earth_2023.svg.png" group-title="国外",BBC Earth 
