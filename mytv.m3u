@@ -70,6 +70,8 @@ http://211.72.174.95:8114/0.ts
 http://211.72.174.95:8113/0.ts
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.iill.top/logo/台視.png" group-title="台湾",台視
 http://211.72.174.95:8112/0.ts
+#EXTINF:-1 tvg-id="东森美洲" tvg-name="东森美洲" tvg-logo="https://www.ebc.net.tw/upload/index/img/logoes/mobile_logo.png" group-title="台湾",東森美洲
+http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png" group-title="台湾",TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-title="国外",ABC News Live
