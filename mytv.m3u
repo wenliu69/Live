@@ -99,8 +99,7 @@ https://debate-elections-2019.akamaized.net/1159b64905eb49bbb9c7b7e0d5c88624/us-
 https://debate-elections-2019.akamaized.net/797771366e8c441ba9feb981da8cf83b/us-west-2/89871584001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/omni-television-ca.png" group-title="国外",OMNI Prairies (卡尔加里)
 https://debate-elections-2019.akamaized.net/17bf2014ad1149f7a01b31ccb65c28ab/us-west-2/89871584001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/omni-1-ca.png" group-title="国外",OMNI 1
-http://tv14s.xyz:8080/3vUZc1/978269/57365
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1772318214921347072/tKPbUtvn_400x400.jpg" group-title="国外",City News Calgary
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 #EXTINF:-1 tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="国外",CityTV Vancouver
