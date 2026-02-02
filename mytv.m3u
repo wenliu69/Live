@@ -89,9 +89,10 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 http://zerotwo.access.ly:2096/Mila225/344987/814567
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="国外", CBS New York
 http://zerotwo.access.ly:2096/Mila225/344987/814699
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-logo-2013-us.png" group-title="国外", CBS New York
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-logo-2013-us.png" group-title="国外", NBC New York
 http://zerotwo.access.ly:2096/Mila225/344987/759584
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png" group-title="国外", FOX New York
+http://zerotwo.access.ly:2096/Mila225/344987/814825
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/tAHqKVn.png" group-title="国外",CTV News Channel
 http://tv14s.xyz:8080/3vUZc1/978269/57350
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/refs/heads/master/countries/canada/ctv-news-horizontal-ca.png" group-title="国外",CTV News
