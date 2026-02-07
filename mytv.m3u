@@ -32,7 +32,7 @@ http://hls.168.us.kg/u/77/master.m3u8
 #EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://cdn.sanity.io/images/cuxyzk11/production/5404fecade653eed404e449be1cca378cfabcbe4-1921x888.png?fit=max&auto=format" group-title="香港",HOY 78
 http://hls.168.us.kg/u/78/master.m3u8
 #EXTINF:-1 tvg-id="VIU" tvg-name="ViuTV" tvg-logo="https://epg.iill.top/logo/ViuTV.png" group-title="香港",ViuTV
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+https://cdn.163189.xyz/163189/viu
 #EXTINF:-1 tvg-id="VIU6" tvg-name="ViuTV6" tvg-logo="https://epg.iill.top/logo/ViuTVsix.png" group-title="香港",ViuTV6
 http://hls.168.us.kg/u/96/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/rthk-tv-31-hk.png" group-title="香港",RTHK31
