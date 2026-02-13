@@ -66,7 +66,7 @@ http://74.91.26.218:82/live/ctv.m3u8
 http://211.72.174.95:8114/0.ts
 
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.iill.top/logo/台視.png" group-title="台湾",台視
-http://211.72.174.95:8112/0.ts
+http://74.91.26.218:82/live/ttv.m3u8
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS.png" group-title="台湾",TVBS精彩台
 http://iptv.4666888.xyz/iptv2A.php?id=47
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png" group-title="台湾",TVBS Asia
