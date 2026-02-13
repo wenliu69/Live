@@ -60,8 +60,6 @@ http://208.87.242.79/livehttpplay?channel_id=20082
 http://208.87.242.79/livehttpplay?channel_id=20163
 #EXTINF:-1 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_mobile.png" group-title="台湾",台視新聞
 http://74.91.26.218:82/live/ttvnews.m3u8
-#EXTINF:-1 tvg-id="民视新闻" tvg-name="民視新闻" tvg-logo="https://live.fanmingming.cn/tv/民视新闻台.png" group-title="台湾",民視新聞
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTV.png" group-title="台湾",中視
 http://74.91.26.218:82/live/ctv.m3u8
@@ -72,8 +70,6 @@ http://74.91.26.218:82/live/cts.m3u8
 http://74.91.26.218:82/live/ttv.m3u8
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS.png" group-title="台湾",TVBS精彩台
 http://iptv.4666888.xyz/iptv2A.php?id=47
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png" group-title="台湾",TVBS Asia
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="东森美洲" tvg-name="东森美洲" tvg-logo="https://www.ebc.net.tw/upload/index/img/logoes/mobile_logo.png" group-title="台湾",東森美洲
 http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
 
