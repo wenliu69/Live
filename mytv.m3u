@@ -42,8 +42,8 @@ http://cdn.163189.xyz/163189/rthk32
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/rthk-tv-33-hk.png" group-title="香港",RTHK33
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻台" tvg-logo="https://epg.iill.top/logo/Now%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="香港",Now新聞台
-http://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW财经台" tvg-logo="https://epg.iill.top/logo/Now%E8%B2%A1%E7%B6%93%E5%8F%B0.png" group-title="香港",Now財經台
+http://hls.168.us.kg/u/332/master.m3u8
+#EXTINF:-1 tvg-id="NOW財經" tvg-name="NOW财经台" tvg-logo="https://epg.iill.top/logo/Now%E8%B2%A1%E7%B6%93%E5%8F%B0.png" group-title="香港",Now財經台
 http://hls.168.us.kg/u/333/master.m3u8
 #EXTINF:-1 tvg-id="NOW直播" tvg-name="NOW直播台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1280px-Now_Live_News_logo.svg.png" group-title="香港",Now直播台
 http://hls.168.us.kg/u/331/master.m3u8
