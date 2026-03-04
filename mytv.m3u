@@ -43,7 +43,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻台" tvg-logo="https://epg.iill.top/logo/Now%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="香港",Now新聞台
 http://cdn.163189.xyz/163189/now
 
-
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="台湾",中天新聞
+http://208.87.242.79/livehttpplay?channel_id=20163
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b0/Chinatvnews.jpg" group-title="台湾",中視新聞
 http://74.91.26.218:82/live/ctvnews.m3u8
 #EXTINF:-1 tvg-id=“镜新闻" tvg-name="镜新闻" tvg-logo="https://pavilion.taicca.tw/wp-content/uploads/2024/09/MIRROR-TV-INC_LOGO.jpg" group-title="台湾",鏡新聞
