@@ -29,8 +29,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 https://o11.163189.xyz/stream/tvb/mzt/
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://cdn.sanity.io/images/cuxyzk11/production/5404fecade653eed404e449be1cca378cfabcbe4-1921x888.png?fit=max&auto=format" group-title="香港",HOY 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://cdn.sanity.io/images/cuxyzk11/production/5404fecade653eed404e449be1cca378cfabcbe4-1921x888.png?fit=max&auto=format" group-title="香港",HOY 78
-http://hls.168.us.kg/u/78/master.m3u8
+
 #EXTINF:-1 tvg-id="VIU" tvg-name="ViuTV" tvg-logo="https://epg.iill.top/logo/ViuTV.png" group-title="香港",ViuTV
 https://cdn.163189.xyz/163189/viu
 #EXTINF:-1 tvg-id="VIU6" tvg-name="ViuTV6" tvg-logo="https://epg.iill.top/logo/ViuTVsix.png" group-title="香港",ViuTV6
@@ -43,18 +42,12 @@ http://cdn.163189.xyz/163189/rthk32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻台" tvg-logo="https://epg.iill.top/logo/Now%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="香港",Now新聞台
 http://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-id="NOW財經" tvg-name="NOW财经台" tvg-logo="https://epg.iill.top/logo/Now%E8%B2%A1%E7%B6%93%E5%8F%B0.png" group-title="香港",Now財經台
-http://hls.168.us.kg/u/333/master.m3u8
-#EXTINF:-1 tvg-id="NOW直播" tvg-name="NOW直播台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1280px-Now_Live_News_logo.svg.png" group-title="香港",Now直播台
-http://hls.168.us.kg/u/331/master.m3u8
+
 
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b0/Chinatvnews.jpg" group-title="台湾",中視新聞
 http://74.91.26.218:82/live/ctvnews.m3u8
 #EXTINF:-1 tvg-id=“镜新闻" tvg-name="镜新闻" tvg-logo="https://pavilion.taicca.tw/wp-content/uploads/2024/09/MIRROR-TV-INC_LOGO.jpg" group-title="台湾",鏡新聞
 https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
-
-#EXTINF:-1 tvg-id="东森Live" tvg-name="东森Live" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/EBCNews.png" group-title="台湾",東森Live
-http://208.87.242.79/livehttpplay?channel_id=20082
 
 #EXTINF:-1 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_mobile.png" group-title="台湾",台視新聞
 http://74.91.26.218:82/live/ttvnews.m3u8
@@ -71,6 +64,10 @@ http://74.91.26.218:82/live/ttv.m3u8
 http://iptv.4666888.xyz/iptv2A.php?id=43
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS.png" group-title="台湾",TVBS精彩台
 http://iptv.4666888.xyz/iptv2A.php?id=47
+
+
+#EXTINF:-1 tvg-id="东森Live" tvg-name="东森Live" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/EBCNews.png" group-title="台湾",東森Live
+http://208.87.242.79/livehttpplay?channel_id=20082
 #EXTINF:-1 tvg-id="东森美洲" tvg-name="东森美洲" tvg-logo="https://www.ebc.net.tw/upload/index/img/logoes/mobile_logo.png" group-title="台湾",東森美洲
 http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
 
