@@ -42,7 +42,8 @@ http://cdn.163189.xyz/163189/rthk32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻台" tvg-logo="https://epg.iill.top/logo/Now%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="香港",Now新聞台
 http://cdn.163189.xyz/163189/now
-
+#EXTINF:-1 tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="台湾",中天新聞
+http://208.87.242.79/livehttpplay?channel_id=20163
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b0/Chinatvnews.jpg" group-title="台湾",中視新聞
 http://74.91.26.218:82/live/ctvnews.m3u8
 #EXTINF:-1 tvg-id=“镜新闻" tvg-name="镜新闻" tvg-logo="https://pavilion.taicca.tw/wp-content/uploads/2024/09/MIRROR-TV-INC_LOGO.jpg" group-title="台湾",鏡新聞
@@ -74,8 +75,6 @@ http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
 https://tv.iill.top/4gtv/4gtv-live089
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="台湾",中天新聞
 https://tv.iill.top/4gtv/4gtv-4gtv009
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="台湾",中天新聞
-http://208.87.242.79/livehttpplay?channel_id=20163
 #EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nYYgAzrh725Swg5ZlZ71fks7kMgBXF3Uq5P2uAumuYqw=s900-c-k-c0x00ffffff-no-rj" group-title="台湾",亚洲旅游台
 https://tv.iill.top/4gtv/4gtv-4gtv076
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-title="国外",ABC News Live
