@@ -76,6 +76,8 @@ https://tv.iill.top/4gtv/4gtv-live089
 https://tv.iill.top/4gtv/4gtv-4gtv009
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="台湾",中天新聞
 http://208.87.242.79/livehttpplay?channel_id=20163
+#EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nYYgAzrh725Swg5ZlZ71fks7kMgBXF3Uq5P2uAumuYqw=s900-c-k-c0x00ffffff-no-rj" group-title="台湾",亚洲旅游台
+https://tv.iill.top/4gtv/4gtv-4gtv076
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-title="国外",ABC News Live
 https://amg00497-lgus-amg00497c3-lg-us-2779.playouts.now.amagi.tv/playlist/amg00497-lgelectronicsusafast-abcnewslive-lgus/playlist.m3u8?ads.deviceid=%5BDEVICE_ID%5D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ua=%5BUA%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.usprivacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.appname=%5BAPP_NAME%5D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&fck=%5BFCK%5D&viewsize=%5BVIEWSIZE%5D&givn=%5BNONCE%5D
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/refs/heads/master/countries/united-kingdom/bbc-news-hz-uk.png" group-title="国外",BBC News
