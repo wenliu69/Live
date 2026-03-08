@@ -29,7 +29,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 https://o11.163189.xyz/stream/tvb/mzt/
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://cdn.sanity.io/images/cuxyzk11/production/5404fecade653eed404e449be1cca378cfabcbe4-1921x888.png?fit=max&auto=format" group-title="香港",HOY 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-
 #EXTINF:-1 tvg-id="VIU" tvg-name="ViuTV" tvg-logo="https://epg.iill.top/logo/ViuTV.png" group-title="香港",ViuTV
 https://cdn.163189.xyz/163189/viu
 #EXTINF:-1 tvg-id="VIU6" tvg-name="ViuTV6" tvg-logo="https://epg.iill.top/logo/ViuTVsix.png" group-title="香港",ViuTV6
@@ -48,23 +47,18 @@ http://208.87.242.79/livehttpplay?channel_id=20163
 http://74.91.26.218:82/live/ctvnews.m3u8
 #EXTINF:-1 tvg-id=“镜新闻" tvg-name="镜新闻" tvg-logo="https://pavilion.taicca.tw/wp-content/uploads/2024/09/MIRROR-TV-INC_LOGO.jpg" group-title="台湾",鏡新聞
 https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
-
 #EXTINF:-1 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_mobile.png" group-title="台湾",台視新聞
 http://74.91.26.218:82/live/ttvnews.m3u8
-
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTV.png" group-title="台湾",中視
 http://74.91.26.218:82/live/ctv.m3u8
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.iill.top/logo/%E8%8F%AF%E8%A6%96.png" group-title="台湾",華視
 http://74.91.26.218:82/live/cts.m3u8
-
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.iill.top/logo/台視.png" group-title="台湾",台視
 http://74.91.26.218:82/live/ttv.m3u8
-
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="台湾",TVBS新聞
 http://208.87.242.79/livehttpplay?channel_id=20165
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS.png" group-title="台湾",TVBS精彩台
 http://iptv.4666888.xyz/iptv2A.php?id=47
-
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/EBCNews.png" group-title="台湾",東森新聞
 http://208.87.242.79/livehttpplay?channel_id=20082
 #EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合" tvg-logo="https://www.ebc.net.tw/upload/index/img/logoes/mobile_logo.png" group-title="台湾",東森綜合
@@ -87,7 +81,6 @@ https://jmp2.uk/stvp-GBBD8000016N
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/live-now-fox-us.png" group-title="国外",Fox News Now
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-logo-2013-default-us.png" group-title="国外", ABC Boston
 http://zerotwo.access.ly:2096/Mila225/344987/814567
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="国外", CBS New York
@@ -104,43 +97,31 @@ https://amg00089-bellmedia-amg00089c3-lg-ca-2995.playouts.now.amagi.tv/playlist/
 http://zerotwo.access.ly:2096/Mila225/344987/761418
 #EXTINF:-1 tvg-name="CTV2 Vancouver Island” tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/T2uS3V6.png" group-title="国外",CTV2 Vancouver Island
 http://tv14s.xyz:8080/3vUZc1/978269/136612
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62cbef9ebb857100072fc187/colorLogoPNG.png" group-title="国外",Global News National
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-BC_GuideLogo_240x144.png" group-title="国外",Global BC
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/global-ca.png" group-title="国外",Global Toronto
 http://tv14s.xyz:8080/3vUZc1/978269/57435
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/omni-television-ca.png" group-title="国外",OMNI Eastern (多伦多)
 http://zerotwo.access.ly:2096/Mila225/344987/761477
-
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1772318214921347072/tKPbUtvn_400x400.jpg" group-title="国外",City News Calgary
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 #EXTINF:-1 tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="国外",CityTV Vancouver
 http://tv14s.xyz:8080/3vUZc1/978269/57395
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/trcWiw2.png" group-title="国外",CBC Vancouver
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/06/19090059/AdventureEarth.jpeg" group-title="国外",Adventure Earth
 https://autentic-adventure-earth-1-fi.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Travelxp_HD.svg/revision/latest/scale-to-width-down/250?cb=20200102200127" group-title="国外",Travel XP
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/Love-Nature.png" group-title="4K",热爱大自然4K
 http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/5001/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608031316377305_68.png" group-title="4K",Travel XP
 http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/14026/index.m3u8
-
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏卫视4K.png" http-user-agent="aliplayer" group-title="4K",江苏卫视4K
 http://8.138.7.223/tv/jsws4k.php
 #EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视4K.png" http-user-agent="aliplayer" group-title="4K",东方卫视4K
 http://106.53.99.30/tv/api.php?id=dfws4k
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖南卫视4K.png" http-user-agent="AptvPlayer-UA" group-title="4K",湖南卫视4K
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-
-
-
