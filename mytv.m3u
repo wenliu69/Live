@@ -88,8 +88,6 @@ http://tv14s.xyz:8080/3vUZc1/978269/57350
 https://amg00089-bellmedia-amg00089c3-lg-ca-2995.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvnews-lgca/playlist.m3u8
 #EXTINF:-1 tvg-name="CTV Vancouver" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ctv-ca.png" group-title="国外",CTV Vancouver
 http://zerotwo.access.ly:2096/Mila225/344987/761418
-#EXTINF:-1 tvg-name="CTV2 Vancouver Island” tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/T2uS3V6.png" group-title="国外",CTV2 Vancouver Island
-http://tv14s.xyz:8080/3vUZc1/978269/136612
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62cbef9ebb857100072fc187/colorLogoPNG.png" group-title="国外",Global News National
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-BC_GuideLogo_240x144.png" group-title="国外",Global BC
