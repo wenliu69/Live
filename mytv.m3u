@@ -125,32 +125,3 @@ http://101.35.240.114:88/live.php?id=浙江卫视4K
 http://8.138.7.223/tv/btime.php?id=bjws4k
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖南卫视4K.png" http-user-agent="AptvPlayer-UA" group-title="4K",湖南卫视4K
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-
-
-#EXTINF:-1 tvg-id="CTI.tw" tvg-name="中天新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3d/CTI_News_Logo.svg" group-title="测试",中天新闻 52台 (官方CDN)
-https://67f979709ba24992983279162983173a.cloudvideo.com.tw/live/cti52/playlist.m3u8
-#EXTINF:-1 tvg-id="CTI.tw" group-title="测试",中天新闻 (Akamai 备用)
-http://ctitv-i.akamaihd.net/hls/live/211516/cti52/playlist.m3u8
-#EXTINF:-1 tvg-id="CTI.tw" tvg-name="中天新闻" group-title="测试",中天新闻 (YouTube 代理流)
-https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
-#EXTINF:-1 tvg-id="CTI.tw" tvg-name="中天新闻" group-title="测试",中天新闻 (GitHub 聚合源)
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u8
-#EXTINF:-1, group-title="测试",中天新闻 - 备用源1 (IP直连)
-http://61.221.181.206/live/cti52/playlist.m3u8
-#EXTINF:-1, 中天新闻 - 备用源2 (Akamai)
-http://ctitv-i.akamaihd.net/hls/live/211516/cti52/playlist.m3u8
-#EXTINF:-1, group-title="测试",中天新闻 - 备用源3 (ITV代理)
-https://livesim.itv.re/cti/index.m3u8
-#EXTINF:-1, group-title="测试",中天新闻 (全球通用中转流)
-https://livesim.itv.re/cti/index.m3u8
-#EXTINF:-1, group-title="测试",中天新闻 (IP直连备用)
-http://103.116.197.106/live/cti52/playlist.m3u8
-#EXTINF:-1, group-title="测试",中天新闻 (YouTube转流-可能需运气)
-https://v.itv.re/UC4LjkybVKXCDlneVXlKAbmw.m3u8
-#EXTINF:-1, group-title="测试",中天新闻 (大陆优化中转-推荐)
-https://v.itv.re/UC4LjkybVKXCDlneVXlKAbmw.m3u8
-#EXTINF:-1, group-title="测试",中天新闻 (GitHub实时维护流)
-https://raw.githubusercontent.com/Guover/IPTV/master/cti.m3u8
-#EXTINF:-1, group-title="测试",中天新闻 (IPV6专线)
-http://[2409:8087:1a01:df::e]:6060/live/cti52/playlist.m3u8
-
