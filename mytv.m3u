@@ -129,7 +129,7 @@ http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jb
 
 #EXTINF:-1 tvg-id="CTI.tw" tvg-name="中天新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3d/CTI_News_Logo.svg" group-title="测试",中天新闻 52台 (官方CDN)
 https://67f979709ba24992983279162983173a.cloudvideo.com.tw/live/cti52/playlist.m3u8
-#EXTINF:-1 tvg-id="CTI.tw" tvg-name="中天新闻" group-title="测试",中天新闻 (Akamai 备用)
+#EXTINF:-1 tvg-id="CTI.tw" group-title="测试",中天新闻 (Akamai 备用)
 http://ctitv-i.akamaihd.net/hls/live/211516/cti52/playlist.m3u8
 #EXTINF:-1 tvg-id="CTI.tw" tvg-name="中天新闻" group-title="测试",中天新闻 (YouTube 代理流)
 https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
