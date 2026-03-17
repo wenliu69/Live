@@ -62,7 +62,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=47
 http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
 #EXTINF:-1 tvg-id="东森Live" tvg-name="东森Live" tvg-logo="https://www.ebc.net.tw/upload/index/img/logoes/mobile_logo.png" group-title="台湾",東森Live
 https://tv.iill.top/4gtv/4gtv-4gtv152
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="台湾",中天新聞
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" http-user-agent="aliplayer" group-title="台湾",中天新聞
 https://tv.iill.top/4gtv/4gtv-4gtv009
 #EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9a/CTI_Official_Logo.svg/1200px-CTI_Official_Logo.svg.png" group-title="台湾",中天亞洲台
 Https://tv.iill.top/FainTV/121
@@ -73,7 +73,7 @@ https://amg00497-lgus-amg00497c3-lg-us-2779.playouts.now.amagi.tv/playlist/amg00
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/refs/heads/master/countries/united-states/cnn-us.png" group-title="国外",CNN
 https://jmp2.uk/stvp-GBBD8000016N
-#EXTINF:-1 tvg-logo="https://daryncarp.com/wp-content/uploads/2024/05/NBC-news-now-1.png" group-title="国外", NBC News Now
+#EXTINF:-1 tvg-logo="https://daryncarp.com/wp-content/uploads/2024/05/NBC-news-now-1.png" http-user-agent="aliplayer" group-title="国外", NBC News Now
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/638808.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-logo-2013-default-us.png" group-title="国外", ABC Boston
