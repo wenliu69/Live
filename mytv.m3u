@@ -59,7 +59,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=43
 #https://tv.iill.top/4gtv/media-live072
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS.png" http-user-agent="aliplayer" group-title="台湾",TVBS
 https://tv.iill.top/4gtv/media-live073
-#EXTINF:-1 tvg-id="TVBS精彩" tvg-name="TVBS精彩" tvg-logo="https://epg.iill.top/logo/TVBS.png" group-title="台湾",TVBS精彩台
+#EXTINF:-1 tvg-id="TVBS精彩" tvg-name="TVBS精彩" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live086_mobile.png" group-title="台湾",TVBS精彩台
 http://iptv.4666888.xyz/iptv2A.php?id=47
 #EXTINF:-1 tvg-id="东森美洲" tvg-name="东森美洲" tvg-logo="https://www.ebc.net.tw/upload/index/img/logoes/mobile_logo.png" group-title="台湾",東森美洲
 http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
