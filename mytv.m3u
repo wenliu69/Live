@@ -72,9 +72,9 @@ https://tv.iill.top/4gtv/4gtv-4gtv067
 #EXTINF:-1 tvg-id="东森美洲" tvg-name="东森美洲" tvg-logo="https://www.ebc.net.tw/upload/index/img/logoes/mobile_logo.png" group-title="台湾",東森美洲
 http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/EBCNews.png" http-user-agent="aliplayer" group-title="台湾",東森新聞
-https://tv.iill.top/4gtv/4gtv-4gtv152
+https://v.iill.top/tw/4gtv-4gtv152/index.m3u8
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" http-user-agent="aliplayer" group-title="台湾",中天新聞
-https://v.iill.top/tw/4gtv-4gtv009/index.m3u
+https://v.iill.top/tw/4gtv-4gtv009/index.m3u8
 #EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/era-news-live.jpg" group-title="台湾",年代新聞
 https://tv.iill.top/api/Era-News/index.m3u8
 #EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://epg.112114.xyz/logo/华视新闻.png" group-title="台湾",華視新聞
