@@ -55,7 +55,8 @@ https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9
 #EXTINF:-1 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_mobile.png" group-title="台湾",台視新聞
 http://74.91.26.218:82/live/ttvnews.m3u8
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTV.png" group-title="台湾",中視
-http://74.91.26.218:82/live/ctv.m3u8
+rtmp://f13h.mine.nu/sat/tv091
+#http://74.91.26.218:82/live/ctv.m3u8
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.iill.top/logo/%E8%8F%AF%E8%A6%96.png" group-title="台湾",華視
 rtmp://f13h.mine.nu/sat/tv111
 #http://74.91.26.218:82/live/cts.m3u8
