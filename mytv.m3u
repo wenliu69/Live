@@ -10,11 +10,11 @@ http://69.30.245.50/live/cctv4.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV13
 http://107.150.60.122/live/cctv13hd.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/phoenix-chinese-channel-hk.png" group-title="香港",鳳凰衛視
-http://cdn6.163189.xyz/163189/fhzw
-#https://stream1.freetv.fun/abf0dd89a3d8030e6464e736ad8b2c92c562eee2c9e491fa324de6b5d50b558a.ctv
+#http://cdn6.163189.xyz/163189/fhzw
+https://stream1.freetv.fun/abf0dd89a3d8030e6464e736ad8b2c92c562eee2c9e491fa324de6b5d50b558a.ctv
 #EXTINF:-1 tvg-id=凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF.png" group-title="香港",鳳凰資訊
-#https://stream1.freetv.fun/fe31eaf5bb86cd05e17cde36410d5291e290a6380274cb40313ccf2da19cf6cd.ctv
-http://cdn6.163189.xyz/163189/fhzx
+https://stream1.freetv.fun/fe31eaf5bb86cd05e17cde36410d5291e290a6380274cb40313ccf2da19cf6cd.ctv
+#http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF.png" group-title="香港",凤凰香港
 http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="香港",翡翠台
