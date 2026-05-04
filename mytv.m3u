@@ -21,8 +21,10 @@ http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF.png" group-title="香港",凤凰香港
 http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="香港",翡翠台
+http://o11.163189.xyz/stream/tvb/fct/
+#https://mytv.cdn.loc.cc/o12.php?id=fct
+#http://cdn6.163189.xyz/163189/fct
 #https://stream1.freetv.fun/169afe453d043b4888d3e0684163a3c8e7c13738df07bcfa187dcd05223e3891.ctv
-https://mytv.cdn.loc.cc/o12.php?id=fct
 #http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1 tvg-id="华丽台" tvg-name="华丽台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="香港",翡翠華麗台
 http://r.jdshipin.com/thuYX
