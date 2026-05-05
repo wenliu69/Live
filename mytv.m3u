@@ -40,9 +40,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 https://o11.163189.xyz/stream/tvb/mzt/
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://cdn.sanity.io/images/cuxyzk11/production/5404fecade653eed404e449be1cca378cfabcbe4-1921x888.png?fit=max&auto=format" group-title="香港",HOY77(粵語)
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 tvg-id="HOY77国语" tvg-name="HOY77国语" tvg-logo="https://cdn.sanity.io/images/cuxyzk11/production/5404fecade653eed404e449be1cca378cfabcbe4-1921x888.png?fit=max&auto=format" group-title="香港",HOY77(國語)
+#EXTINF:-1 tvg-id="HOY77-2" tvg-name="HOY77-2" tvg-logo="https://cdn.sanity.io/images/cuxyzk11/production/5404fecade653eed404e449be1cca378cfabcbe4-1921x888.png?fit=max&auto=format" group-title="香港",HOY77(國語)
 http://cdn6.163189.xyz/163189/hoy
-#EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://www.cymcass.edu.hk/sites/default/files/web/others/channels4_profile.jpg" group-title="香港",HOY78
+#EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://cdn.prod.website-files.com/643577c45cf78f27706d22a7/6445f5def5bdb37325893586_hoytv%20logo.svg" group-title="香港",HOY78
 http://cdn.163189.xyz/163189/hoy78
 #EXTINF:-1 tvg-id="VIU" tvg-name="ViuTV" tvg-logo="https://epg.iill.top/logo/ViuTV.png" group-title="香港",ViuTV
 https://cdn.163189.xyz/163189/viu
