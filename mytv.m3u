@@ -149,18 +149,18 @@ http://101.35.240.114:88/live.php?id=浙江卫视4K
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="4K",翡翠台
 http://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA: TSN 1" tvg-logo="https://puddintap.click/ico/CA/TSN1.png" group-title="世界杯",加拿大: TSN 1
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://puddintap.click/ico/CA/TSN1.png" group-title="世界杯",加拿大: TSN 1
 http://zerotwo.access.ly:2096/Mila225/344987/815122
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA: TSN 2" tvg-logo="https://puddintap.click/ico/CA/TSN2.png" group-title="世界杯",加拿大: TSN 2
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN 2" tvg-logo="https://puddintap.click/ico/CA/TSN2.png" group-title="世界杯",加拿大: TSN 2
 http://zerotwo.access.ly:2096/Mila225/344987/815123
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="CA: TSN 3" tvg-logo="https://puddintap.click/ico/CA/TSN3.png" group-title="世界杯",加拿大: TSN 3
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN 3" tvg-logo="https://puddintap.click/ico/CA/TSN3.png" group-title="世界杯",加拿大: TSN 3
 http://zerotwo.access.ly:2096/Mila225/344987/815124
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA: TSN 4" tvg-logo="https://puddintap.click/ico/CA/TSN4.png" group-title="世界杯",加拿大: TSN 4
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4" tvg-logo="https://puddintap.click/ico/CA/TSN4.png" group-title="世界杯",加拿大: TSN 4
 http://zerotwo.access.ly:2096/Mila225/344987/815125
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA: TSN 5" tvg-logo="https://puddintap.click/ico/CA/TSN5.png" group-title="世界杯",加拿大: TSN 5
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5" tvg-logo="https://puddintap.click/ico/CA/TSN5.png" group-title="世界杯",加拿大: TSN 5
 http://zerotwo.access.ly:2096/Mila225/344987/815126
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="USA: FOX SPORTS 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-us.png" group-title="世界杯",美国: FOX SPORTS 1
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-us.png" group-title="世界杯",美国: FOX SPORTS 1
 http://zerotwo.access.ly:2096/Mila225/344987/815036
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="USA: FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-us.png" group-title="世界杯",美国: FOX SPORTS 2
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FOX SPORTS 2" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720210021959688_47.png" group-title="世界杯",美国: FOX SPORTS 2
 http://zerotwo.access.ly:2096/Mila225/344987/815037
 
