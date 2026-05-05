@@ -57,8 +57,8 @@ http://cdn.163189.xyz/163189/rthk32
 #http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻台" tvg-logo="https://epg.iill.top/logo/Now%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="香港",Now新聞台
 http://cdn.163189.xyz/163189/now
-##EXTINF:-1 tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="台湾",中天新聞
-#https://a3f1b2.kylintv.tv/live/cti_iphone.m3u8
+#EXTINF:-1 tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="台湾",中天新聞
+https://t.freetv.fun/live/zhong-tian-xin-wen-1.php
 ##EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://ctiasia.chinatimes.com/wp-content/uploads/2018/12/logo-460x180-300x117.png" group-title="台湾",中天亞洲台
 #http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv109&token=xiatianshigou
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b0/Chinatvnews.jpg" group-title="台湾",中視新聞
@@ -93,12 +93,7 @@ http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #https://v.iill.top/api/Era-News/index.m3u8
 #EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://epg.112114.xyz/logo/华视新闻.png" group-title="台湾",華視新聞
 http://74.91.26.218:82/live/ctsnews.m3u8
-#EXTINF:-1 tvg-id="中天新闻-1" tvg-name="中天新闻-1" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" http-user-agent="aliplayer" group-title="台湾",中天新聞
-http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8
-#EXTINF:-1 tvg-id="中天新闻-2" tvg-name="中天新闻-2" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" http-user-agent="aliplayer" group-title="台湾",中天新聞
-http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv009&token=xiatianshigou
-#EXTINF:-1 tvg-id="中天新闻-3" tvg-name="中天新闻-3" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" http-user-agent="aliplayer" group-title="台湾",中天新聞
-http://rihou.cc:555/tv/[Bx]中天新闻
+
 ##EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-title="国外",ABC News Live
 #https://amg00497-lgus-amg00497c3-lg-us-2779.playouts.now.amagi.tv/playlist/amg00497-lgelectronicsusafast-abcnewslive-lgus/playlist.m3u8?ads.deviceid=%5BDEVICE_ID%5D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ua=%5BUA%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.usprivacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.appname=%5BAPP_NAME%5D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&fck=%5BFCK%5D&viewsize=%5BVIEWSIZE%5D&givn=%5BNONCE%5D
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/refs/heads/master/countries/united-kingdom/bbc-news-hz-uk.png" group-title="国外",BBC News
