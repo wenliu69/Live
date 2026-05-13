@@ -113,7 +113,7 @@ http://zerotwo.access.ly:2096/Mila225/344987/814567
 http://zerotwo.access.ly:2096/Mila225/344987/814699
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-logo-2013-us.png" group-title="国外", NBC New York
 http://zerotwo.access.ly:2096/Mila225/344987/759584
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/5/1/fox-5-logo-png_seeklogo-57132.png" group-title="国外", FOX New York
+#EXTINF:-1 tvg-logo="https://betterandbetterer.com/wp-content/uploads/2019/07/Fox5-Logo.png" group-title="国外", FOX New York
 http://zerotwo.access.ly:2096/Mila225/344987/814825
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/tAHqKVn.png" group-title="国外",CTV News Channel
 http://tv14s.xyz:8080/3vUZc1/978269/57350
@@ -353,6 +353,6 @@ http://zerotwo.access.ly:2096/Mila225/344987/814813
 http://zerotwo.access.ly:2096/Mila225/344987/814814
 #EXTINF:-1 tvg-id="FOX EL PASO TX KFOX" tvg-name="TX | EL PASO | FOX KFOX" group-title="USA | FOX LOCALS",TX | EL PASO | FOX KFOX
 http://zerotwo.access.ly:2096/Mila225/344987/814823
-#EXTINF:-1 tvg-id="FOX NEW YORK NY WNYW" tvg-name="NY | NY | FOX 5 WNYW" group-title="USA | FOX LOCALS",NY | NY | FOX 5 WNYW
+#EXTINF:-1 tvg-id="FOX NEW YORK NY WNYW" tvg-name="NY | NY | FOX 5 WNYW" tvg-logo="https://betterandbetterer.com/wp-content/uploads/2019/07/Fox5-Logo.png" group-title="USA | FOX LOCALS",NY | NY | FOX 5 WNYW
 http://zerotwo.access.ly:2096/Mila225/344987/814825
 
