@@ -165,14 +165,22 @@ https://iptv.852851.xyz/ch/66ad11c44eca88e44105038a9e199147/master.m3u8
 https://iptv.852851.xyz/ch/096e1c2a9bfda6fb968c05e6312110a9/master.m3u8
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://puddintap.click/ico/CA/TSN1.png" group-title="世界杯",加拿大: TSN 1
 http://zerotwo.access.ly:2096/Mila225/344987/815122
+#http://tv14s.xyz:8080/3vUZc1/978269/57292
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN 2" tvg-logo="https://puddintap.click/ico/CA/TSN2.png" group-title="世界杯",加拿大: TSN 2
-http://zerotwo.access.ly:2096/Mila225/344987/815123
+http://tv14s.xyz:8080/3vUZc1/978269/16129
+#http://tv14s.xyz:8080/3vUZc1/978269/47442
+#http://zerotwo.access.ly:2096/Mila225/344987/815123
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN 3" tvg-logo="https://puddintap.click/ico/CA/TSN3.png" group-title="世界杯",加拿大: TSN 3
-http://zerotwo.access.ly:2096/Mila225/344987/815124
+http://tv14s.xyz:8080/3vUZc1/978269/10389
+#http://tv14s.xyz:8080/3vUZc1/978269/47444
+#http://zerotwo.access.ly:2096/Mila225/344987/815124
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4" tvg-logo="https://puddintap.click/ico/CA/TSN4.png" group-title="世界杯",加拿大: TSN 4
 http://zerotwo.access.ly:2096/Mila225/344987/815125
+#http://tv14s.xyz:8080/3vUZc1/978269/66783
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5" tvg-logo="https://puddintap.click/ico/CA/TSN5.png" group-title="世界杯",加拿大: TSN 5
 http://zerotwo.access.ly:2096/Mila225/344987/815126
+#http://tv14s.xyz:8080/3vUZc1/978269/16131
+#http://tv14s.xyz:8080/3vUZc1/978269/57467
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://banner2.cleanpng.com/20180530/hbl/kisspng-fox-sports-networks-fox-sports-go-fox-sports-1-tel-5b0f641b1fe212.5699568315277353231306.jpg" group-title="世界杯",美国: FOX SPORTS 1
 http://tv14s.xyz:8080/3vUZc1/978269/46792
 #http://tv14s.xyz:8080/3vUZc1/978269/1846
