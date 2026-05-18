@@ -42,11 +42,11 @@ https://o11.163189.xyz/stream/tvb/mzt/
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://cdn.prod.website-files.com/643577c45cf78f27706d22a7/6445f5def5bdb37325893586_hoytv%20logo.svg" group-title="香港",HOY78
 http://cdn.163189.xyz/163189/hoy78
-#EXTINF:-1 tvg-id="VIU" tvg-name="ViuTV" tvg-logo="https://epg.iill.top/logo/ViuTV.png" group-title="香港",ViuTV
+#EXTINF:-1 tvg-id="VIU" tvg-name="ViuTV" tvg-logo="https://static.freepnglogo.com/images/all_img/viutv-logo-blue-cd4d.png" group-title="香港",ViuTV
 https://stream1.freetv.fun/ab16a30d3816f20a7eabe52f579ceac858c17659b1a9c1915392d63552712622.ctv
 #https://cdn.163189.xyz/163189/viu
-#EXTINF:-1 tvg-id="VIU6" tvg-name="ViuTV6" tvg-logo="https://epg.iill.top/logo/ViuTVsix.png" group-title="香港",ViuTV6
-https://stream1.freetv.fun/df53d054294bb3499e8c5897908dd1e7a190e2505b2f45abd837a8bc405771fb.ctv
+##EXTINF:-1 tvg-id="VIU6" tvg-name="ViuTV6" tvg-logo="https://epg.iill.top/logo/ViuTVsix.png" group-title="香港",ViuTV6
+#https://stream1.freetv.fun/df53d054294bb3499e8c5897908dd1e7a190e2505b2f45abd837a8bc405771fb.ctv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/rthk-tv-31-hk.png" group-title="香港",RTHK31
 http://cdn.163189.xyz/163189/rthk31
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/rthk-tv-32-hk.png" group-title="香港",RTHK32
