@@ -89,7 +89,6 @@ http://74.91.26.218:82/live/ctv.m3u8
 http://74.91.26.218:82/live/cts.m3u8
 #https://t.freetv.fun/live/hua-shi-1.m3u8
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.iill.top/logo/台視.png" group-title="台湾",台視
-#https://t.freetv.fun/live/tai-shi-a.m3u8
 #rtmp://f13h.mine.nu/sat/tv071
 http://74.91.26.218:82/live/ttv.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="台湾",TVBS新聞
