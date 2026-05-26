@@ -70,7 +70,7 @@ http://cdn.163189.xyz/163189/rthk31
 http://cdn.163189.xyz/163189/rthk32
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/rthk-tv-33-hk.png" group-title="香港",RTHK33
 #http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-#EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻台" tvg-logo="https://epg.iill.top/logo/Now%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="香港",Now新聞台
+#EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻台" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ60ahNHCR4fs3OAO_Wv-_HOlT7KebaRDdfdA&s" group-title="香港",Now新聞台
 http://cdn.163189.xyz/163189/now
 
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="台湾",中天新聞
@@ -93,11 +93,11 @@ https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTV.png" group-title="台湾",中視
 http://74.91.26.218:82/live/ctv.m3u8
 #https://t.freetv.fun/live/zhong-shi-a.m3u8
-#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.iill.top/logo/%E8%8F%AF%E8%A6%96.png" group-title="台湾",華視
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://iuimc.com/wp-content/uploads/2018/03/logo-華視.png" group-title="台湾",華視
 #rtmp://f13h.mine.nu/sat/tv111
 http://74.91.26.218:82/live/cts.m3u8
 #https://t.freetv.fun/live/hua-shi-1-1.m3u8
-#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.iill.top/logo/台視.png" group-title="台湾",台視
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/250px-TTV_Home_Channel_with_HD_2016.png" group-title="台湾",台視
 #rtmp://f13h.mine.nu/sat/tv071
 http://74.91.26.218:82/live/ttv.m3u8
 #https://t.freetv.fun/live/tai-shi-a.m3u8
