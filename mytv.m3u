@@ -58,7 +58,7 @@ https://stream1.freetv.fun/b80dbf3157f6bbba06a4c5b0c740f55b07936dacf6575c1f79eb4
 http://cdn.163189.xyz/163189/hoy78
 #EXTINF:-1 tvg-id="VIU" tvg-name="ViuTV" tvg-logo="https://static.freepnglogo.com/images/all_img/viutv-logo-blue-cd4d.png" group-title="香港",ViuTV
 https://t.freetv.fun/live/viutv-28.m3u8
-#http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 #https://stream1.freetv.fun/ab16a30d3816f20a7eabe52f579ceac858c17659b1a9c1915392d63552712622.ctv
 #https://cdn.163189.xyz/163189/viu
