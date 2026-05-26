@@ -52,9 +52,9 @@ https://o11.163189.xyz/stream/tvb/mzt/
 #EXTINF:-1 tvg-id="HOY76” tvg-name="HOY76” tvg-logo="https://cdn.sanity.io/images/cuxyzk11/production/5404fecade653eed404e449be1cca378cfabcbe4-1921x888.png?fit=max&auto=format" group-title="香港",HOY76
 https://cdn11.163189.xyz/163189/2c86601a7180416e
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://cdn.sanity.io/images/cuxyzk11/production/5404fecade653eed404e449be1cca378cfabcbe4-1921x888.png?fit=max&auto=format" group-title="香港",HOY77
-https://stream1.freetv.fun/b80dbf3157f6bbba06a4c5b0c740f55b07936dacf6575c1f79eb41b4a014e125.ctv
+#https://stream1.freetv.fun/b80dbf3157f6bbba06a4c5b0c740f55b07936dacf6575c1f79eb41b4a014e125.ctv
 #http://cdn6.163189.xyz/163189/hoy
-#http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://cdn.sanity.io/images/cuxyzk11/production/5404fecade653eed404e449be1cca378cfabcbe4-1921x888.png?fit=max&auto=format" group-title="香港",HOY78
 http://cdn.163189.xyz/163189/hoy78
 #EXTINF:-1 tvg-id="VIU" tvg-name="ViuTV" tvg-logo="https://static.freepnglogo.com/images/all_img/viutv-logo-blue-cd4d.png" group-title="香港",ViuTV
