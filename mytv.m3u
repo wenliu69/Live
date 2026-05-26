@@ -22,7 +22,8 @@ https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv13
 #http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/phoenix-chinese-channel-hk.png" group-title="香港",鳳凰衛視
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+http://r.jdshipin.com/cCCzW
+#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #http://cdn6.163189.xyz/163189/fhzw
 
 #EXTINF:-1 tvg-id=凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF.png" group-title="香港",鳳凰資訊
