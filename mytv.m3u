@@ -91,19 +91,18 @@ https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 http://74.91.26.218:82/live/ctsnews.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="台湾",TVBS新聞
 http://iptv.4666888.xyz/iptv2A.php?id=43
-#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://www.ebc.net.tw/upload/index/img/logoes/mobile_logo.png" http-user-agent="aliplayer" group-title="台湾",東森新聞
+#EXTINF:-1 tvg-id="东森電視" tvg-name="东森電視" tvg-logo="https://www.ebc.net.tw/upload/index/img/logoes/mobile_logo.png" http-user-agent="aliplayer" group-title="台湾",東森America
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #https://iptv.852851.xyz/ch/3e9793ca3473025290a1af49f9d4af0a/master.m3u8
-
+#EXTINF:-1 tvg-id="东森美洲" tvg-name="东森美洲" tvg-logo="https://raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/EBCNews.png" group-title="台湾",東森美洲
+http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
 #EXTINF:-1 tvg-id="中天新闻-2" tvg-name="中天新聞-2" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="台湾",中天新聞
 #https://iptv.852851.xyz/ch/9cc92e5d8ca3b2fa16ad6c1dee5dff6e/master.m3u8
 #rtmp://home.aceimage.cn/live/xiangjiaoge-ztxw
 https://t.freetv.fun/live/zhong-tian-xin-wen-22.m3u8
 
-#EXTINF:-1 tvg-id="东森美洲" tvg-name="东森美洲" tvg-logo="https://raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/EBCNews.png" group-title="台湾",東森美洲
-http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
 ##EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/era-news-live.jpg" group-title="台湾",年代新聞
-#https://v.iill.top/api/Era-News/index.m3u8
+
 
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTV.png" group-title="台湾",中視
 http://74.91.26.218:82/live/ctv.m3u8
