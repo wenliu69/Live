@@ -71,8 +71,7 @@ http://cdn.163189.xyz/163189/rthk32
 #EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻台" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ60ahNHCR4fs3OAO_Wv-_HOlT7KebaRDdfdA&s" group-title="香港",Now新聞台
 http://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新聞" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="台湾",中天新聞
-#https://iptv.852851.xyz/ch/9cc92e5d8ca3b2fa16ad6c1dee5dff6e/master.m3u8
-http://rihou.cc:555/tv/[Bx]中天新闻
+https://iptv.852851.xyz/ch/9cc92e5d8ca3b2fa16ad6c1dee5dff6e/master.m3u8
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b0/Chinatvnews.jpg" group-title="台湾",中視新聞
 http://74.91.26.218:82/live/ctvnews.m3u8
 #https://t.freetv.fun/live/zhong-shi-xin-wen-4.m3u8
@@ -94,7 +93,8 @@ https://iptv.852851.xyz/ch/3e9793ca3473025290a1af49f9d4af0a/master.m3u8
 http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
 
 #EXTINF:-1 tvg-id="中天新闻-1" tvg-name="中天新闻-1" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="台湾",中天新聞
-https://cdn.19891230.eu.org/api/Cti-I/index.m3u8
+http://rihou.cc:555/tv/[Bx]中天新闻
+#https://cdn.19891230.eu.org/api/Cti-I/index.m3u8
 #https://t.freetv.fun/live/zhong-tian-xin-wen-22.m3u8
 #rtmp://home.aceimage.cn/live/xiangjiaoge-ztxw
 
