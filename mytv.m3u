@@ -9,8 +9,8 @@ http://69.30.245.50/live/cctv3.m3u8
 http://69.30.245.50/live/cctv4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视",CCTV5
 http://69.30.245.50/live/cctv5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视",CCTV5+
-http://207.56.13.146:81/cdnlive/cctv5p.m3u8
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视",CCTV5+
+#http://207.56.13.146:81/cdnlive/cctv5p.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV13
 http://198.204.228.26/live/cctv13hd.m3u8
 #http://74.91.26.218:82/live/cctv13hd.m3u8
@@ -183,11 +183,11 @@ http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jb
 http://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="世界杯",中国：CCTV5
 http://69.30.245.50/live/cctv5.m3u8
-##EXTINF:-1 tvg-id="VIU" tvg-name="ViuTV" tvg-logo="https://static.freepnglogo.com/images/all_img/viutv-logo-blue-cd4d.png" group-title="世界杯",香港：ViuTV
-#http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-##EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/250px-TTV_Home_Channel_with_HD_2016.png" group-title="世界杯",台湾：台視
+#EXTINF:-1 tvg-id="VIU" tvg-name="ViuTV" tvg-logo="https://static.freepnglogo.com/images/all_img/viutv-logo-blue-cd4d.png" group-title="世界杯",香港：ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/250px-TTV_Home_Channel_with_HD_2016.png" group-title="世界杯",台湾：台視
 #rtmp://f13h.mine.nu/sat/tv071
-#http://74.91.26.218:82/live/ttv.m3u8
+http://74.91.26.218:82/live/ttv.m3u8
 ##EXTINF:-1 tvg-id="Now Sports1" tvg-name="Now Sports1" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d1/Now_Sports_4K_1.png/revision/latest?cb=20231007144452&path-prefix=vi" group-title="世界杯",香港: Now Sports
 #https://iptv.852851.xyz/ch/66ad11c44eca88e44105038a9e199147/master.m3u8
 ##EXTINF:-1 tvg-id="Now Sports PL" tvg-name="Now Sports PL" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/93/Now_Sports_1.png/revision/latest?cb=20231007144612&path-prefix=vi" group-title="世界杯",香港: Now Sports
