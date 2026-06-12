@@ -124,7 +124,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=47
 ##EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-title="国外",ABC News Live
 #https://t.freetv.fun/live/abc-news-live-1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/refs/heads/master/countries/united-kingdom/bbc-news-hz-uk.png" group-title="国外",BBC News
-#https://t.freetv.fun/live/bbc-news-4.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/refs/heads/master/countries/united-states/cnn-us.png" group-title="国外",CNN
 https://jmp2.uk/stvp-GBBD8000016N
@@ -204,8 +203,8 @@ http://tv14s.xyz:8080/3vUZc1/978269/10389
 http://tv14s.xyz:8080/3vUZc1/978269/66783
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5" tvg-logo="https://puddintap.click/ico/CA/TSN5.png" group-title="世界杯",加拿大: TSN 5
 #http://zerotwo.access.ly:2096/Mila225/344987/815126
-http://tv14s.xyz:8080/3vUZc1/978269/16131
-#http://tv14s.xyz:8080/3vUZc1/978269/57467
+#http://tv14s.xyz:8080/3vUZc1/978269/16131
+http://tv14s.xyz:8080/3vUZc1/978269/57467
 
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://banner2.cleanpng.com/20180530/hbl/kisspng-fox-sports-networks-fox-sports-go-fox-sports-1-tel-5b0f641b1fe212.5699568315277353231306.jpg" group-title="世界杯",美国: FOX SPORTS 1
 http://tv14s.xyz:8080/3vUZc1/978269/46792
