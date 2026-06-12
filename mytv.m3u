@@ -104,7 +104,6 @@ http://rihou.cc:555/tv/[Bx]中天新闻
 
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTV.png" group-title="台湾",中視
 http://74.91.26.218:82/live/ctv.m3u8
-#https://t.freetv.fun/live/zhong-shi-a.m3u8
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://iuimc.com/wp-content/uploads/2018/03/logo-華視.png" group-title="台湾",華視
 #rtmp://f13h.mine.nu/sat/tv111
 http://74.91.26.218:82/live/cts.m3u8
@@ -184,11 +183,11 @@ http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jb
 http://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="世界杯",中国：CCTV5
 http://69.30.245.50/live/cctv5.m3u8
-#EXTINF:-1 tvg-id="VIU" tvg-name="ViuTV" tvg-logo="https://static.freepnglogo.com/images/all_img/viutv-logo-blue-cd4d.png" group-title="世界杯",香港：ViuTV
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/250px-TTV_Home_Channel_with_HD_2016.png" group-title="世界杯",台湾：台視
+##EXTINF:-1 tvg-id="VIU" tvg-name="ViuTV" tvg-logo="https://static.freepnglogo.com/images/all_img/viutv-logo-blue-cd4d.png" group-title="世界杯",香港：ViuTV
+#http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+##EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/250px-TTV_Home_Channel_with_HD_2016.png" group-title="世界杯",台湾：台視
 #rtmp://f13h.mine.nu/sat/tv071
-http://74.91.26.218:82/live/ttv.m3u8
+#http://74.91.26.218:82/live/ttv.m3u8
 ##EXTINF:-1 tvg-id="Now Sports1" tvg-name="Now Sports1" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d1/Now_Sports_4K_1.png/revision/latest?cb=20231007144452&path-prefix=vi" group-title="世界杯",香港: Now Sports
 #https://iptv.852851.xyz/ch/66ad11c44eca88e44105038a9e199147/master.m3u8
 ##EXTINF:-1 tvg-id="Now Sports PL" tvg-name="Now Sports PL" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/93/Now_Sports_1.png/revision/latest?cb=20231007144612&path-prefix=vi" group-title="世界杯",香港: Now Sports
@@ -213,8 +212,8 @@ http://zerotwo.access.ly:2096/Mila225/344987/815125
 http://zerotwo.access.ly:2096/Mila225/344987/815126
 #http://tv14s.xyz:8080/3vUZc1/978269/16131
 #http://tv14s.xyz:8080/3vUZc1/978269/57467
-#EXTINF:-1 tvg-logo="https://betterandbetterer.com/wp-content/uploads/2019/07/Fox5-Logo.png" group-title="世界杯", 美国：FOX New York
-http://zerotwo.access.ly:2096/Mila225/344987/814825
+##EXTINF:-1 tvg-logo="https://betterandbetterer.com/wp-content/uploads/2019/07/Fox5-Logo.png" group-title="世界杯", 美国：FOX New York
+#http://zerotwo.access.ly:2096/Mila225/344987/814825
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://banner2.cleanpng.com/20180530/hbl/kisspng-fox-sports-networks-fox-sports-go-fox-sports-1-tel-5b0f641b1fe212.5699568315277353231306.jpg" group-title="世界杯",美国: FOX SPORTS 1
 #http://tv14s.xyz:8080/3vUZc1/978269/46792
 #http://tv14s.xyz:8080/3vUZc1/978269/1846
