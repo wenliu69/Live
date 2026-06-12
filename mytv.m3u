@@ -192,37 +192,37 @@ http://74.91.26.218:82/live/ttv.m3u8
 #EXTINF:-1 tvg-logo="https://betterandbetterer.com/wp-content/uploads/2019/07/Fox5-Logo.png" group-title="世界杯", 美国：FOX New York
 http://zerotwo.access.ly:2096/Mila225/344987/814825
 ##EXTINF:-1 tvg-id="Now Sports1" tvg-name="Now Sports1" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d1/Now_Sports_4K_1.png/revision/latest?cb=20231007144452&path-prefix=vi" group-title="世界杯",香港: Now Sports
-#https://iptv.852851.xyz/ch/66ad11c44eca88e44105038a9e199147/master.m3u8
+https://iptv.852851.xyz/ch/66ad11c44eca88e44105038a9e199147/master.m3u8
 ##EXTINF:-1 tvg-id="Now Sports PL" tvg-name="Now Sports PL" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/93/Now_Sports_1.png/revision/latest?cb=20231007144612&path-prefix=vi" group-title="世界杯",香港: Now Sports
-#https://iptv.852851.xyz/ch/096e1c2a9bfda6fb968c05e6312110a9/master.m3u8
+https://iptv.852851.xyz/ch/096e1c2a9bfda6fb968c05e6312110a9/master.m3u8
 ##EXTINF:-1 tvg-id="Now Sports641" tvg-name="Now Sports641" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch641_170_122" group-title="世界杯",香港: Now Sports 
-#https://iptv.852851.xyz/ch/da539034d579bba63d6502d4c996683b/master.m3u8
+https://iptv.852851.xyz/ch/da539034d579bba63d6502d4c996683b/master.m3u8
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://puddintap.click/ico/CA/TSN1.png" group-title="世界杯",加拿大: TSN 1
-http://zerotwo.access.ly:2096/Mila225/344987/815122
-#http://tv14s.xyz:8080/3vUZc1/978269/57292
+#http://zerotwo.access.ly:2096/Mila225/344987/815122
+http://tv14s.xyz:8080/3vUZc1/978269/57292
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN 2" tvg-logo="https://puddintap.click/ico/CA/TSN2.png" group-title="世界杯",加拿大: TSN 2
-#http://tv14s.xyz:8080/3vUZc1/978269/16129
+http://tv14s.xyz:8080/3vUZc1/978269/16129
 #http://tv14s.xyz:8080/3vUZc1/978269/47442
-http://zerotwo.access.ly:2096/Mila225/344987/815123
+#http://zerotwo.access.ly:2096/Mila225/344987/815123
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN 3" tvg-logo="https://puddintap.click/ico/CA/TSN3.png" group-title="世界杯",加拿大: TSN 3
-#http://tv14s.xyz:8080/3vUZc1/978269/10389
+http://tv14s.xyz:8080/3vUZc1/978269/10389
 #http://tv14s.xyz:8080/3vUZc1/978269/47444
-http://zerotwo.access.ly:2096/Mila225/344987/815124
+#http://zerotwo.access.ly:2096/Mila225/344987/815124
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4" tvg-logo="https://puddintap.click/ico/CA/TSN4.png" group-title="世界杯",加拿大: TSN 4
-http://zerotwo.access.ly:2096/Mila225/344987/815125
-#http://tv14s.xyz:8080/3vUZc1/978269/66783
+#http://zerotwo.access.ly:2096/Mila225/344987/815125
+http://tv14s.xyz:8080/3vUZc1/978269/66783
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5" tvg-logo="https://puddintap.click/ico/CA/TSN5.png" group-title="世界杯",加拿大: TSN 5
-http://zerotwo.access.ly:2096/Mila225/344987/815126
-#http://tv14s.xyz:8080/3vUZc1/978269/16131
+#http://zerotwo.access.ly:2096/Mila225/344987/815126
+http://tv14s.xyz:8080/3vUZc1/978269/16131
 #http://tv14s.xyz:8080/3vUZc1/978269/57467
 
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://banner2.cleanpng.com/20180530/hbl/kisspng-fox-sports-networks-fox-sports-go-fox-sports-1-tel-5b0f641b1fe212.5699568315277353231306.jpg" group-title="世界杯",美国: FOX SPORTS 1
-#http://tv14s.xyz:8080/3vUZc1/978269/46792
+http://tv14s.xyz:8080/3vUZc1/978269/46792
 #http://tv14s.xyz:8080/3vUZc1/978269/1846
-http://zerotwo.access.ly:2096/Mila225/344987/815036
+#http://zerotwo.access.ly:2096/Mila225/344987/815036
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FOX SPORTS 2" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720210021959688_47.png" group-title="世界杯",美国: FOX SPORTS 2
-http://zerotwo.access.ly:2096/Mila225/344987/815037
-#http://tv14s.xyz:8080/3vUZc1/978269/1847
+#http://zerotwo.access.ly:2096/Mila225/344987/815037
+http://tv14s.xyz:8080/3vUZc1/978269/1847
 #EXTINF:-1 tvg-id="FOX BIRMINGHAM AL WBRC" tvg-name="AL | BIRMINGHAM | FOX 6 WBRC" tvg-logo="https://puddintap.click/ico/ALL/AL%20_%20BIRMINGHAM%20_%20FOX%206%20WBRC.png" group-title="USA | FOX LOCALS",AL | BIRMINGHAM | FOX 6 WBRC
 http://zerotwo.access.ly:2096/Mila225/344987/759653
 #EXTINF:-1 tvg-id="FOX HUNTSVILLE AL WZDX" tvg-name="AL | HUNTSVILLE | FOX 54 WZDX" tvg-logo="https://puddintap.click/ico/ALL/AL%20_%20HUNTSVILLE%20_%20FOX%20WZDX.png" group-title="USA | FOX LOCALS",AL | HUNTSVILLE | FOX 54 WZDX
