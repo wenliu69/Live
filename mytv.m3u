@@ -111,7 +111,6 @@ http://74.91.26.218:82/live/cts.m3u8
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/250px-TTV_Home_Channel_with_HD_2016.png" group-title="台湾",台視
 #rtmp://f13h.mine.nu/sat/tv071
 http://74.91.26.218:82/live/ttv.m3u8
-#https://t.freetv.fun/live/tai-shi-a.m3u8
 ##EXTINF:-1 tvg-id="中天综合" tvg-name="中天综合" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="台湾",中天綜合
 #https://cdn.19891230.eu.org/api/Cti-K/index.m3u8
 
@@ -127,24 +126,24 @@ http://iptv.4666888.xyz/iptv2A.php?id=47
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/refs/heads/master/countries/united-states/cnn-us.png" group-title="国外",CNN
 https://jmp2.uk/stvp-GBBD8000016N
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msnbc-alt-us.png" http-user-agent="aliplayer" group-title="国外", MSNBC
-http://zerotwo.access.ly:2096/Mila225/344987/814516
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-news-us.png" group-title="国外",Fox News
-http://zerotwo.access.ly:2096/Mila225/344987/814512
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-logo-2013-default-us.png" group-title="国外", ABC Boston
-http://zerotwo.access.ly:2096/Mila225/344987/814567
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msnbc-alt-us.png" http-user-agent="aliplayer" group-title="国外", MSNBC
+#http://zerotwo.access.ly:2096/Mila225/344987/814516
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-news-us.png" group-title="国外",Fox News
+#http://zerotwo.access.ly:2096/Mila225/344987/814512
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-logo-2013-default-us.png" group-title="国外", ABC Boston
+#http://zerotwo.access.ly:2096/Mila225/344987/814567
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="国外", CBS New York
-http://zerotwo.access.ly:2096/Mila225/344987/814699
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-logo-2013-us.png" group-title="国外", NBC New York
-http://zerotwo.access.ly:2096/Mila225/344987/759584
-#EXTINF:-1 tvg-logo="https://betterandbetterer.com/wp-content/uploads/2019/07/Fox5-Logo.png" group-title="国外", FOX New York
-http://zerotwo.access.ly:2096/Mila225/344987/814825
+#http://zerotwo.access.ly:2096/Mila225/344987/814699
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-logo-2013-us.png" group-title="国外", NBC New York
+#http://zerotwo.access.ly:2096/Mila225/344987/759584
+##EXTINF:-1 tvg-logo="https://betterandbetterer.com/wp-content/uploads/2019/07/Fox5-Logo.png" group-title="国外", FOX New York
+#http://zerotwo.access.ly:2096/Mila225/344987/814825
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/tAHqKVn.png" group-title="国外",CTV News Channel
 http://tv14s.xyz:8080/3vUZc1/978269/57350
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/refs/heads/master/countries/canada/ctv-news-horizontal-ca.png" group-title="国外",CTV News
 https://amg00089-bellmedia-amg00089c3-lg-ca-2995.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvnews-lgca/playlist.m3u8
-#EXTINF:-1 tvg-name="CTV Vancouver" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ctv-ca.png" group-title="国外",CTV Vancouver
-http://zerotwo.access.ly:2096/Mila225/344987/761418
+##EXTINF:-1 tvg-name="CTV Vancouver" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ctv-ca.png" group-title="国外",CTV Vancouver
+#http://zerotwo.access.ly:2096/Mila225/344987/761418
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62cbef9ebb857100072fc187/colorLogoPNG.png" group-title="国外",Global News National
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-BC_GuideLogo_240x144.png" group-title="国外",Global BC
@@ -154,8 +153,8 @@ http://tv14s.xyz:8080/3vUZc1/978269/57435
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/global-ca.png" group-title="国外",Global Calgary
 http://tv14s.xyz:8080/3vUZc1/978269/115349
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/omni-television-ca.png" group-title="国外",OMNI Eastern
-http://zerotwo.access.ly:2096/Mila225/344987/761477
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1772318214921347072/tKPbUtvn_400x400.jpg" group-title="国外",City News Calgary
+#http://zerotwo.access.ly:2096/Mila225/344987/761477
+##EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1772318214921347072/tKPbUtvn_400x400.jpg" group-title="国外",City News Calgary
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 #EXTINF:-1 tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="国外",CityTV Vancouver
 http://tv14s.xyz:8080/3vUZc1/978269/57395
