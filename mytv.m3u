@@ -133,7 +133,8 @@ http://tv14s.xyz:8080/3vUZc1/978269/9296
 http://tv14s.xyz:8080/3vUZc1/978269/1818
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-logo-2013-default-us.png" group-title="国外", ABC Boston
 #http://zerotwo.access.ly:2096/Mila225/344987/814567
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="国外", CBS New York
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="国外", CBS News
+http://tv14s.xyz:8080/3vUZc1/978269/21259
 #http://zerotwo.access.ly:2096/Mila225/344987/814699
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-logo-2013-us.png" group-title="国外", NBC New York
 #http://zerotwo.access.ly:2096/Mila225/344987/759584
