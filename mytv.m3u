@@ -122,7 +122,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=47
 
 ##EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-title="国外",ABC News Live
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/refs/heads/master/countries/united-kingdom/bbc-news-hz-uk.png" group-title="国外",BBC News
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/refs/heads/master/countries/united-kingdom/bbc-news-hz-uk.png" group-title="国外",BBC One
 http://tv14s.xyz:8080/3vUZc1/978269/53649
 #https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/refs/heads/master/countries/united-states/cnn-us.png" group-title="国外",CNN
@@ -207,6 +207,13 @@ http://tv14s.xyz:8080/3vUZc1/978269/66783
 #http://zerotwo.access.ly:2096/Mila225/344987/815126
 #http://tv14s.xyz:8080/3vUZc1/978269/16131
 http://tv14s.xyz:8080/3vUZc1/978269/57467
+
+#EXTINF:-1 tvg-id="ITV1" tvg-name="ITV1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/itv-1-uk.png" group-title="世界杯",英国: ITV 1
+http://tv14s.xyz:8080/3vUZc1/978269/53651
+#EXTINF:-1 tvg-id="ITV2" tvg-name="ITV2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/itv-2-uk.png" group-title="世界杯",英国: ITV 2
+http://tv14s.xyz:8080/3vUZc1/978269/53671
+#EXTINF:-1 tvg-id="ITV3" tvg-name="ITV3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/itv-3-uk.png" group-title="世界杯",英国: ITV 3
+http://tv14s.xyz:8080/3vUZc1/978269/53665
 
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://banner2.cleanpng.com/20180530/hbl/kisspng-fox-sports-networks-fox-sports-go-fox-sports-1-tel-5b0f641b1fe212.5699568315277353231306.jpg" group-title="世界杯",美国: FOX SPORTS 1
 http://tv14s.xyz:8080/3vUZc1/978269/46792
