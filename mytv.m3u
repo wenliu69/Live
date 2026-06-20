@@ -198,6 +198,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/250px-TTV_Home_Channel_with_HD_2016.png" group-title="世界杯",台湾：台視
 #rtmp://f13h.mine.nu/sat/tv071
 http://74.91.26.218:82/live/ttv.m3u8
+#EXTINF:-1 tvg-id="ELTA体育" tvg-name="ELTA体育" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_4ff53e627ce28c4ba535c0c8e2178da8.png" group-title="世界杯",台湾：ELTA體育
+https://t.freetv.fun/live/eltati-yu-1.m3u8
 #EXTINF:-1 tvg-id="澳门体育" tvg-name="澳门体育" tvg-logo="https://live.fanmingming.cn/tv/%E6%BE%B3%E8%A7%86%E6%BE%B3%E9%97%A8.png" group-title="世界杯",澳门: 澳門體育
 http://cdn6.163189.xyz/163189/amty
 
