@@ -99,9 +99,9 @@ http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
 #EXTINF:-1 tvg-id="中天新闻-1" tvg-name="中天新闻-1" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="台湾",中天新聞
 #https://cdn.19891230.eu.org/api/Cti-K/index.m3u8
 #https://iptv.852851.xyz/ch/9cc92e5d8ca3b2fa16ad6c1dee5dff6e/master.m3u8
-http://rihou.cc:555/tv/[Bx]中天新闻
+#http://rihou.cc:555/tv/[Bx]中天新闻
 #https://cdn.19891230.eu.org/api/Cti-I/index.m3u8
-
+http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8
 ##EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/era-news-live.jpg" group-title="台湾",年代新聞
 
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTV.png" group-title="台湾",中視
