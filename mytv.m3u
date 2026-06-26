@@ -238,5 +238,6 @@ http://tv14s.xyz:8080/3vUZc1/978269/58765
 http://tv14s.xyz:8080/3vUZc1/978269/46710
 #EXTINF:-1 tvg-id="Treehouse" tvg-name="Treehouse" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Treehouse-Logo.png" group-title="Kids",Treehouse
 http://tv14s.xyz:8080/3vUZc1/978269/57371
-
+#EXTINF:-1 tvg-id="PBS Kids" tvg-name="PBS Kids" tvg-logo="https://static.wikia.nocookie.net/fictionaltelevisionchannels/images/3/33/PBS_Kids_Dash_Logo_%282009%29.svg/revision/latest/scale-to-width-down/250?cb=20240707171303" group-title="Kids",PBS Kids
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 
