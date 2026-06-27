@@ -242,3 +242,5 @@ http://tv14s.xyz:8080/3vUZc1/978269/57371
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest/scale-to-width-down/1200?cb=20240206232316" group-title="Kids",Disney Junior
 http://tv14s.xyz:8080/3vUZc1/978269/57349
+#EXTINF:-1 tvg-id="NickToons" tvg-name="NickToons" tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/Nicktoons-United-States-Logo-2014.png" group-title="Kids",NickToons
+http://tv14s.xyz:8080/3vUZc1/978269/36
