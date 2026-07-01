@@ -20,7 +20,7 @@ http://198.204.228.26/live/cctv13hd.m3u8
 #http://107.150.60.122/live/cctv8k.m3u8
 #http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/phoenix-chinese-channel-hk.png" group-title="香港",鳳凰衛視
-http://123.157.31.182:7912/rtp/233.50.202.35:5140
+#http://123.157.31.182:7912/rtp/233.50.202.35:5140
 #http://r.jdshipin.com/cCCzW
 #http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #http://cdn6.163189.xyz/163189/fhzw
@@ -53,27 +53,27 @@ https://o11.163189.xyz/stream/tvb/mzt/
 ##EXTINF:-1 tvg-id="HOY76” tvg-name="HOY76” tvg-logo="https://cdn.sanity.io/images/cuxyzk11/production/5404fecade653eed404e449be1cca378cfabcbe4-1921x888.png?fit=max&auto=format" group-title="香港",HOY76
 #https://cdn11.163189.xyz/163189/2c86601a7180416e
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://cdn.sanity.io/images/cuxyzk11/production/5404fecade653eed404e449be1cca378cfabcbe4-1921x888.png?fit=max&auto=format" group-title="香港",HOY77
-https://stream1.freetv.fun/b80dbf3157f6bbba06a4c5b0c740f55b07936dacf6575c1f79eb41b4a014e125.ctv
+#https://stream1.freetv.fun/b80dbf3157f6bbba06a4c5b0c740f55b07936dacf6575c1f79eb41b4a014e125.ctv
 #http://cdn6.163189.xyz/163189/hoy
 #http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://cdn.sanity.io/images/cuxyzk11/production/5404fecade653eed404e449be1cca378cfabcbe4-1921x888.png?fit=max&auto=format" group-title="香港",HOY78
 #http://cdn.163189.xyz/163189/hoy78
 #EXTINF:-1 tvg-id="VIU" tvg-name="ViuTV" tvg-logo="https://static.freepnglogo.com/images/all_img/viutv-logo-blue-cd4d.png" group-title="香港",ViuTV
-http://r.jdshipin.com/vSJvl
+#http://r.jdshipin.com/vSJvl
 #http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 #https://stream1.freetv.fun/ab16a30d3816f20a7eabe52f579ceac858c17659b1a9c1915392d63552712622.ctv
 #https://cdn.163189.xyz/163189/viu
-##EXTINF:-1 tvg-id="VIU6" tvg-name="ViuTV6" tvg-logo="https://epg.pw/media/images/channel/2025/01/31/large/20250131032218014298_55.png" group-title="香港",ViuTV6
+#EXTINF:-1 tvg-id="VIU6" tvg-name="ViuTV6" tvg-logo="https://epg.pw/media/images/channel/2025/01/31/large/20250131032218014298_55.png" group-title="香港",ViuTV6
 #https://stream1.freetv.fun/df53d054294bb3499e8c5897908dd1e7a190e2505b2f45abd837a8bc405771fb.ctv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/rthk-tv-31-hk.png" group-title="香港",RTHK31
-http://cdn.163189.xyz/163189/rthk31
+#http://cdn.163189.xyz/163189/rthk31
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/rthk-tv-32-hk.png" group-title="香港",RTHK32
-http://cdn.163189.xyz/163189/rthk32
+#http://cdn.163189.xyz/163189/rthk32
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/rthk-tv-33-hk.png" group-title="香港",RTHK33
 #http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻台" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ60ahNHCR4fs3OAO_Wv-_HOlT7KebaRDdfdA&s" group-title="香港",Now新聞台
-http://cdn.163189.xyz/163189/now
+#http://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新聞" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="台湾",中天新聞
 https://t.freetv.fun/live/zhong-tian-xin-wen-1.php
 #https://c958c7-ceb9ea-ea3a.kylintv.tv/live/cti_iphone.m3u8
