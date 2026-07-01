@@ -44,7 +44,7 @@ http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
 #http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720201504213005_11.png" group-title="香港",TVB娛樂新聞台
 #http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
+#http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
 #http://iptv.4666888.xyz/iptv2A.php?id=36
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="香港",TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
@@ -53,11 +53,11 @@ https://o11.163189.xyz/stream/tvb/mzt/
 ##EXTINF:-1 tvg-id="HOY76” tvg-name="HOY76” tvg-logo="https://cdn.sanity.io/images/cuxyzk11/production/5404fecade653eed404e449be1cca378cfabcbe4-1921x888.png?fit=max&auto=format" group-title="香港",HOY76
 #https://cdn11.163189.xyz/163189/2c86601a7180416e
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://cdn.sanity.io/images/cuxyzk11/production/5404fecade653eed404e449be1cca378cfabcbe4-1921x888.png?fit=max&auto=format" group-title="香港",HOY77
-#https://stream1.freetv.fun/b80dbf3157f6bbba06a4c5b0c740f55b07936dacf6575c1f79eb41b4a014e125.ctv
-http://cdn6.163189.xyz/163189/hoy
+https://stream1.freetv.fun/b80dbf3157f6bbba06a4c5b0c740f55b07936dacf6575c1f79eb41b4a014e125.ctv
+#http://cdn6.163189.xyz/163189/hoy
 #http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://cdn.sanity.io/images/cuxyzk11/production/5404fecade653eed404e449be1cca378cfabcbe4-1921x888.png?fit=max&auto=format" group-title="香港",HOY78
-http://cdn.163189.xyz/163189/hoy78
+#http://cdn.163189.xyz/163189/hoy78
 #EXTINF:-1 tvg-id="VIU" tvg-name="ViuTV" tvg-logo="https://static.freepnglogo.com/images/all_img/viutv-logo-blue-cd4d.png" group-title="香港",ViuTV
 http://r.jdshipin.com/vSJvl
 #http://php.jdshipin.com/TVOD/iptv.php?id=viutv
