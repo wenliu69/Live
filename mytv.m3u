@@ -40,7 +40,8 @@ http://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 tvg-id="华丽台" tvg-name="华丽台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="香港",翡翠華麗台
 http://r.jdshipin.com/thuYX
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/tvb-news-channel-hk.png" group-title="香港",無線新聞台
-http://r.jdshipin.com/CkuBd
+http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
+#http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720201504213005_11.png" group-title="香港",TVB娛樂新聞台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
