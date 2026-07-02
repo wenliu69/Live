@@ -72,6 +72,7 @@ https://stream1.freetv.fun/df53d054294bb3499e8c5897908dd1e7a190e2505b2f45abd837a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/rthk-tv-31-hk.png" group-title="香港",RTHK31
 #http://cdn.163189.xyz/163189/rthk31
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/rthk-tv-32-hk.png" group-title="香港",RTHK32
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #http://cdn.163189.xyz/163189/rthk32
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/rthk-tv-33-hk.png" group-title="香港",RTHK33
 #http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
