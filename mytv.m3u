@@ -20,7 +20,7 @@ http://198.204.228.26/live/cctv13hd.m3u8
 #http://107.150.60.122/live/cctv8k.m3u8
 #http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/phoenix-chinese-channel-hk.png" group-title="香港",鳳凰衛視
-#http://123.157.31.182:7912/rtp/233.50.202.35:5140
+http://183.128.246.231:9999/卫视/凤凰中文?cors
 #http://r.jdshipin.com/cCCzW
 #http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #http://cdn6.163189.xyz/163189/fhzw
