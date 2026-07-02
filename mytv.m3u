@@ -28,10 +28,11 @@ http://183.128.246.231:9999/卫视/凤凰中文?cors
 http://115.206.231.157:9999/卫视/凤凰资讯?cors
 #http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv
 #http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
-#https://stream1.freetv.fun/fe31eaf5bb86cd05e17cde36410d5291e290a6380274cb40313ccf2da19cf6cd.ctv
+
 #http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="香港",凤凰香港
 https://cdn.qd.je/163189.php?id=fhhk
+http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
 #http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="香港",翡翠台
 http://o11.163189.xyz/stream/tvb/fct/
