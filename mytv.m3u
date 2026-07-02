@@ -32,7 +32,7 @@ http://115.206.231.157:9999/卫视/凤凰资讯?cors
 #http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="香港",凤凰香港
 https://cdn.qd.je/163189.php?id=fhhk
-http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
+#http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
 #http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="香港",翡翠台
 http://o11.163189.xyz/stream/tvb/fct/
@@ -70,6 +70,7 @@ https://stream1.freetv.fun/ab16a30d3816f20a7eabe52f579ceac858c17659b1a9c1915392d
 #EXTINF:-1 tvg-id="VIU6" tvg-name="ViuTV6" tvg-logo="https://epg.pw/media/images/channel/2025/01/31/large/20250131032218014298_55.png" group-title="香港",ViuTV6
 https://stream1.freetv.fun/df53d054294bb3499e8c5897908dd1e7a190e2505b2f45abd837a8bc405771fb.ctv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/rthk-tv-31-hk.png" group-title="香港",RTHK31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #http://cdn.163189.xyz/163189/rthk31
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/rthk-tv-32-hk.png" group-title="香港",RTHK32
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
