@@ -276,3 +276,5 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://epg.pw/media/images/channel/2022/12/06/large/20221206203341880156_46.jpg" http-user-agent="AptvPlayer-UA" group-title="Kids", Nickelodeon
 http://tv14s.xyz:8080/3vUZc1/978269/57365
 http://tv14s.xyz:8080/3vUZc1/978269/47349
+#EXTINF:-1 tvg-name="Disney Channel"  tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114212722350581_18.png" http-user-agent="AptvPlayer-UA" group-title="Kids", Disney Channel
+http://tv14s.xyz:8080/3vUZc1/978269/2206
