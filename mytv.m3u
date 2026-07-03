@@ -239,7 +239,8 @@ http://tv14s.xyz:8080/3vUZc1/978269/66783
 #http://zerotwo.access.ly:2096/Mila225/344987/815126
 #http://tv14s.xyz:8080/3vUZc1/978269/16131
 http://tv14s.xyz:8080/3vUZc1/978269/57467
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-one-uk.png" group-title="世界杯",英国：BBC One
+http://tv14s.xyz:8080/3vUZc1/978269/53649
 #EXTINF:-1 tvg-id="ITV1" tvg-name="ITV1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/itv-1-uk.png" group-title="世界杯",英国: ITV 1
 http://tv14s.xyz:8080/3vUZc1/978269/53651
 
