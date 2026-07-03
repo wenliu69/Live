@@ -35,7 +35,8 @@ https://cdn.qd.je/163189.php?id=fhhk
 #http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
 #http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="香港",翡翠台
-http://o11.163189.xyz/stream/tvb/fct/
+https://cdn.qd.je/163189.php?id=fct
+#http://o11.163189.xyz/stream/tvb/fct/
 #https://mytv.cdn.loc.cc/o12.php?id=fct
 #http://cdn6.163189.xyz/163189/fct
 #https://stream1.freetv.fun/169afe453d043b4888d3e0684163a3c8e7c13738df07bcfa187dcd05223e3891.ctv
