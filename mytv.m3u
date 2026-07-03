@@ -108,8 +108,7 @@ http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
 
 #EXTINF:-1 tvg-id="中天新闻-1" tvg-name="中天新闻-1" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="台湾",中天新聞
-https://t.freetv.fun/live/zhong-tian-xin-wen-1-1.php
-#rtmp://media.atmsiot.com/live/ztxw
+rtmp://media.atmsiot.com/live/ztxw
 #https://cdn.19891230.eu.org/api/Cti-K/index.m3u8
 #https://iptv.852851.xyz/ch/9cc92e5d8ca3b2fa16ad6c1dee5dff6e/master.m3u8
 #http://rihou.cc:555/tv/[Bx]中天新闻
@@ -178,8 +177,9 @@ http://tv14s.xyz:8080/3vUZc1/978269/115349
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/omni-television-ca.png" group-title="国外",OMNI Eastern
 #http://zerotwo.access.ly:2096/Mila225/344987/761477
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1772318214921347072/tKPbUtvn_400x400.jpg" group-title="国外",City News Calgary
-https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1772318214921347072/tKPbUtvn_400x400.jpg" group-title="国外",City News Vancouver
+https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
+#https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 #EXTINF:-1 tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="国外",CityTV Vancouver
 http://tv14s.xyz:8080/3vUZc1/978269/57395
 
