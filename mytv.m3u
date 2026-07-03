@@ -269,3 +269,5 @@ https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 http://tv14s.xyz:8080/3vUZc1/978269/57349
 #EXTINF:-1 tvg-id="NickToons" tvg-name="NickToons" tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/Nicktoons-United-States-Logo-2014.png" group-title="Kids",NickToons
 http://tv14s.xyz:8080/3vUZc1/978269/36
+#EXTINF:-1 tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" http-user-agent="AptvPlayer-UA" group-title="4K", Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
