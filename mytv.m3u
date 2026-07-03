@@ -41,7 +41,8 @@ http://o11.163189.xyz/stream/tvb/fct/
 #https://stream1.freetv.fun/169afe453d043b4888d3e0684163a3c8e7c13738df07bcfa187dcd05223e3891.ctv
 #http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1 tvg-id="华丽台" tvg-name="华丽台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="香港",翡翠華麗台
-http://r.jdshipin.com/thuYX
+https://cdn.qd.je/163189.php?id=jade
+#http://r.jdshipin.com/thuYX
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/tvb-news-channel-hk.png" group-title="香港",無線新聞台
 http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
 #http://r.jdshipin.com/CkuBd
