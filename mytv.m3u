@@ -246,7 +246,12 @@ http://tv14s.xyz:8080/3vUZc1/978269/46792
 #http://zerotwo.access.ly:2096/Mila225/344987/815037
 http://tv14s.xyz:8080/3vUZc1/978269/1847
 #EXTINF:-1 tvg-id="Baby First" tvg-name="Baby First" tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/BabyFirstTV-Logo.png" group-title="Kids",Baby First
-http://tv14s.xyz:8080/3vUZc1/978269/58765
+https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
+#http://tv14s.xyz:8080/3vUZc1/978269/58765
+
+#EXTINF:-1 tvg-id="Baby Shark TV" tvg-name="Baby Shark TV" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids",Baby Shark TV
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nick-Jr.-Logo-2009-present.png" group-title="Kids",Nick Jr.
 http://tv14s.xyz:8080/3vUZc1/978269/46710
 #EXTINF:-1 tvg-id="Treehouse" tvg-name="Treehouse" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Treehouse-Logo.png" group-title="Kids",Treehouse
