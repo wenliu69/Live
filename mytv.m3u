@@ -73,7 +73,7 @@ https://stream1.freetv.fun/df53d054294bb3499e8c5897908dd1e7a190e2505b2f45abd837a
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #http://cdn.163189.xyz/163189/rthk31
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/rthk-tv-32-hk.png" group-title="香港",RTHK32
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #http://cdn.163189.xyz/163189/rthk32
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/rthk-tv-33-hk.png" group-title="香港",RTHK33
 #http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -108,7 +108,7 @@ http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
 
 #EXTINF:-1 tvg-id="中天新闻-1" tvg-name="中天新闻-1" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="台湾",中天新聞
-rtmp://media.atmsiot.com/live/ztxw
+#rtmp://media.atmsiot.com/live/ztxw
 #https://cdn.19891230.eu.org/api/Cti-K/index.m3u8
 #https://iptv.852851.xyz/ch/9cc92e5d8ca3b2fa16ad6c1dee5dff6e/master.m3u8
 #http://rihou.cc:555/tv/[Bx]中天新闻
@@ -211,14 +211,14 @@ https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="世界杯",中国：CCTV5
 http://69.30.245.50/live/cctv5.m3u8
 #EXTINF:-1 tvg-id="VIU" tvg-name="ViuTV" tvg-logo="https://static.freepnglogo.com/images/all_img/viutv-logo-blue-cd4d.png" group-title="世界杯",香港：ViuTV
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/250px-TTV_Home_Channel_with_HD_2016.png" group-title="世界杯",台湾：台視
 #rtmp://f13h.mine.nu/sat/tv071
 http://74.91.26.218:82/live/ttv.m3u8
 #EXTINF:-1 tvg-id="ELTA体育" tvg-name="ELTA体育" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_4ff53e627ce28c4ba535c0c8e2178da8.png" group-title="世界杯",台湾：ELTA體育
-https://t.freetv.fun/live/eltati-yu-1-1.m3u8
+#https://t.freetv.fun/live/eltati-yu-1-1.m3u8
 #EXTINF:-1 tvg-id="澳门体育" tvg-name="澳门体育" tvg-logo="https://live.fanmingming.cn/tv/%E6%BE%B3%E8%A7%86%E6%BE%B3%E9%97%A8.png" group-title="世界杯",澳门: 澳門體育
-http://cdn6.163189.xyz/163189/amty
+#http://cdn6.163189.xyz/163189/amty
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://puddintap.click/ico/CA/TSN1.png" group-title="世界杯",加拿大: TSN 1
 #http://zerotwo.access.ly:2096/Mila225/344987/815122
