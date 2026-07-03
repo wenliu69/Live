@@ -271,3 +271,5 @@ http://tv14s.xyz:8080/3vUZc1/978269/57349
 http://tv14s.xyz:8080/3vUZc1/978269/36
 #EXTINF:-1 tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" http-user-agent="AptvPlayer-UA" group-title="4K", Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128060650320978_43.jpg" http-user-agent="AptvPlayer-UA" group-title="4K", Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
