@@ -225,8 +225,8 @@ https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="世界杯",中国：CCTV5
 http://69.30.245.50/live/cctv5.m3u8
 #EXTINF:-1 tvg-id="VIU" tvg-name="ViuTV" tvg-logo="https://static.freepnglogo.com/images/all_img/viutv-logo-blue-cd4d.png" group-title="世界杯",香港：ViuTV
-http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
-#https://cdn.qd.je/163189.php?id=viu
+#http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
+https://cdn.qd.je/163189.php?id=viu
 
 
 #EXTINF:-1 tvg-id="Now Sports" tvg-name="Now Sports" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d1/Now_Sports_4K_1.png/revision/latest/scale-to-width-down/1199?cb=20231007144452&path-prefix=vi" group-title="世界杯",香港：Now Sports 4K
