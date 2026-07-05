@@ -148,23 +148,22 @@ https://jmp2.uk/stvp-GBBD8000016N
 http://tv14s.xyz:8080/3vUZc1/978269/9296
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-news-us.png" group-title="国外",Fox News
 http://tv14s.xyz:8080/3vUZc1/978269/1818
-##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-logo-2013-default-us.png" group-title="国外", ABC Boston
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-logo-2013-default-us.png" group-title="国外", ABC
+http://tv14s.xyz:8080/3vUZc1/978269/121665
+http://tv14s.xyz:8080/3vUZc1/978269/324627
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="国外", CBS News
 http://tv14s.xyz:8080/3vUZc1/978269/21259
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-title="国外",ABC 
-http://tv14s.xyz:8080/3vUZc1/978269/324627
-http://tv14s.xyz:8080/3vUZc1/978269/121665
+##EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-title="国外",ABC News
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-logo-2013-us.png" group-title="国外", NBC
-http://tv14s.xyz:8080/3vUZc1/978269/324761
-http://tv14s.xyz:8080/3vUZc1/978269/324434
 http://tv14s.xyz:8080/3vUZc1/978269/324545
 http://tv14s.xyz:8080/3vUZc1/978269/324631
 http://tv14s.xyz:8080/3vUZc1/978269/46687
 http://tv14s.xyz:8080/3vUZc1/978269/120832
 #EXTINF:-1 tvg-logo="https://betterandbetterer.com/wp-content/uploads/2019/07/Fox5-Logo.png" group-title="国外", FOX
-http://tv14s.xyz:8080/3vUZc1/978269/120829
+
 http://tv14s.xyz:8080/3vUZc1/978269/120831
 http://tv14s.xyz:8080/3vUZc1/978269/121135
 http://tv14s.xyz:8080/3vUZc1/978269/324502
