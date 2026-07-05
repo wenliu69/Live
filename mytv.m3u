@@ -115,11 +115,7 @@ http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
 
 #EXTINF:-1 tvg-id="中天新闻-1" tvg-name="中天新闻-1" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="台湾",中天新聞
 #rtmp://media.atmsiot.com/live/ztxw
-#https://cdn.19891230.eu.org/api/Cti-K/index.m3u8
-#https://iptv.852851.xyz/ch/9cc92e5d8ca3b2fa16ad6c1dee5dff6e/master.m3u8
 #http://rihou.cc:555/tv/[Bx]中天新闻
-#https://cdn.19891230.eu.org/api/Cti-I/index.m3u8
-#http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8
 
 
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTV.png" group-title="台湾",中視
@@ -141,9 +137,6 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #http://iptv.4666888.xyz/iptv2A.php?id=47
 
 
-##EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-title="国外",ABC News Live
-
-
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/refs/heads/master/countries/united-kingdom/bbc-news-hz-uk.png" group-title="国外",BBC News
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-one-uk.png" group-title="国外",BBC One
 http://tv14s.xyz:8080/3vUZc1/978269/53649
@@ -156,14 +149,26 @@ http://tv14s.xyz:8080/3vUZc1/978269/9296
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-news-us.png" group-title="国外",Fox News
 http://tv14s.xyz:8080/3vUZc1/978269/1818
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-logo-2013-default-us.png" group-title="国外", ABC Boston
-#http://zerotwo.access.ly:2096/Mila225/344987/814567
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="国外", CBS News
 http://tv14s.xyz:8080/3vUZc1/978269/21259
-#http://zerotwo.access.ly:2096/Mila225/344987/814699
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-title="国外",ABC 
+http://tv14s.xyz:8080/3vUZc1/978269/324627
+http://tv14s.xyz:8080/3vUZc1/978269/324432
+http://tv14s.xyz:8080/3vUZc1/978269/121665
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-logo-2013-us.png" group-title="国外", NBC
+http://tv14s.xyz:8080/3vUZc1/978269/324761
+http://tv14s.xyz:8080/3vUZc1/978269/324434
+http://tv14s.xyz:8080/3vUZc1/978269/324545
+http://tv14s.xyz:8080/3vUZc1/978269/324631
 http://tv14s.xyz:8080/3vUZc1/978269/46687
-##EXTINF:-1 tvg-logo="https://betterandbetterer.com/wp-content/uploads/2019/07/Fox5-Logo.png" group-title="国外", FOX New York
-#http://zerotwo.access.ly:2096/Mila225/344987/814825
+http://tv14s.xyz:8080/3vUZc1/978269/120832
+#EXTINF:-1 tvg-logo="https://betterandbetterer.com/wp-content/uploads/2019/07/Fox5-Logo.png" group-title="国外", FOX
+http://tv14s.xyz:8080/3vUZc1/978269/120829
+http://tv14s.xyz:8080/3vUZc1/978269/120831
+http://tv14s.xyz:8080/3vUZc1/978269/121135
+http://tv14s.xyz:8080/3vUZc1/978269/324502
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/tAHqKVn.png" group-title="国外",CTV News Channel
 http://tv14s.xyz:8080/3vUZc1/978269/57350
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/refs/heads/master/countries/canada/ctv-news-horizontal-ca.png" group-title="国外",CTV News
@@ -279,6 +284,8 @@ http://tv14s.xyz:8080/3vUZc1/978269/46710
 http://tv14s.xyz:8080/3vUZc1/978269/57371
 #EXTINF:-1 tvg-id="PBS Kids" tvg-name="PBS Kids" tvg-logo="https://static.wikia.nocookie.net/fictionaltelevisionchannels/images/3/33/PBS_Kids_Dash_Logo_%282009%29.svg/revision/latest/scale-to-width-down/250?cb=20240707171303" group-title="Kids",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
+https://t.freetv.fun/live/pbs-kids.m3u8
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest/scale-to-width-down/1200?cb=20240206232316" group-title="Kids",Disney Junior
 http://tv14s.xyz:8080/3vUZc1/978269/57349
 #EXTINF:-1 tvg-id="NickToons" tvg-name="NickToons" tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/Nicktoons-United-States-Logo-2014.png" group-title="Kids",NickToons
@@ -286,6 +293,8 @@ http://tv14s.xyz:8080/3vUZc1/978269/36
 #EXTINF:-1 tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" http-user-agent="AptvPlayer-UA" group-title="Kids", Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128060650320978_43.jpg" http-user-agent="AptvPlayer-UA" group-title="Kids", Cartoon Network
+http://tv14s.xyz:8080/3vUZc1/978269/57356
+http://tv14s.xyz:8080/3vUZc1/978269/57380
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://epg.pw/media/images/channel/2022/12/06/large/20221206203341880156_46.jpg" http-user-agent="AptvPlayer-UA" group-title="Kids", Nickelodeon
 http://tv14s.xyz:8080/3vUZc1/978269/47349
