@@ -260,6 +260,10 @@ http://tv14s.xyz:8080/3vUZc1/978269/53649
 #EXTINF:-1 tvg-id="ITV1" tvg-name="ITV1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/itv-1-uk.png" group-title="世界杯",英国: ITV 1
 http://tv14s.xyz:8080/3vUZc1/978269/53651
 
+#EXTINF:-1 tvg-logo="https://betterandbetterer.com/wp-content/uploads/2019/07/Fox5-Logo.png" group-title="世界杯", 美国：FOX
+http://tv14s.xyz:8080/3vUZc1/978269/120831
+http://tv14s.xyz:8080/3vUZc1/978269/121135
+
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://banner2.cleanpng.com/20180530/hbl/kisspng-fox-sports-networks-fox-sports-go-fox-sports-1-tel-5b0f641b1fe212.5699568315277353231306.jpg" group-title="世界杯",美国: FOX SPORTS 1
 http://tv14s.xyz:8080/3vUZc1/978269/46792
 #http://tv14s.xyz:8080/3vUZc1/978269/1846
