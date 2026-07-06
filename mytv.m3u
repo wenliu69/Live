@@ -31,9 +31,8 @@ http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
 
 #http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="香港",凤凰香港
-https://cdn.qd.je/163189.php?id=fhhk
-#http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
-#http://cdn6.163189.xyz/163189/fhhk
+#https://cdn.qd.je/163189.php?id=fhhk
+http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="香港",翡翠台
 https://cdn.qd.je/163189.php?id=fct
 #http://o11.163189.xyz/stream/tvb/fct/
