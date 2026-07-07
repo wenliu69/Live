@@ -19,20 +19,20 @@ http://198.204.228.26/live/cctv13hd.m3u8
 ##EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/CCTV8k.png/revision/latest?cb=20220312212747" group-title="央视",CCTV8K
 #http://107.150.60.122/live/cctv8k.m3u8
 #http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/phoenix-chinese-channel-hk.png" group-title="香港",鳳凰衛視
-http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
+##EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/phoenix-chinese-channel-hk.png" group-title="香港",鳳凰衛視
+#http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
 #http://r.jdshipin.com/cCCzW
 #http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #http://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 tvg-id=凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF.png" group-title="香港",鳳凰資訊
-http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
+##EXTINF:-1 tvg-id=凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF.png" group-title="香港",鳳凰資訊
+#http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
 #http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv
 #http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
 
 #http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="香港",凤凰香港
-#https://cdn.qd.je/163189.php?id=fhhk
-http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
+https://cdn.qd.je/163189.php?id=fhhk
+#http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="香港",翡翠台
 https://cdn.qd.je/163189.php?id=fct
 #http://o11.163189.xyz/stream/tvb/fct/
