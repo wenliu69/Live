@@ -250,10 +250,11 @@ https://stream1.freetv.fun/557a41a1bc75a24f26d92e63ef1e59c43d783425442ced985be4d
 #rtmp://f13h.mine.nu/sat/tv071
 http://74.91.26.218:82/live/ttv.m3u8
 #EXTINF:-1 tvg-id="ELTA体育" tvg-name="ELTA体育" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_4ff53e627ce28c4ba535c0c8e2178da8.png" group-title="世界杯",台湾：ELTA體育
+https://t.freetv.fun/live/eltati-yu-1-1.php
 https://t.freetv.fun/live/eltati-yu-2.php
 https://t.freetv.fun/live/eltati-yu-3.php
 https://t.freetv.fun/live/eltati-yu-4.php
-https://t.freetv.fun/live/eltati-yu-1-1.php
+
 #EXTINF:-1 tvg-id="澳门体育" tvg-name="澳门体育" tvg-logo="https://live.fanmingming.cn/tv/%E6%BE%B3%E8%A7%86%E6%BE%B3%E9%97%A8.png" group-title="世界杯",澳门: 澳門體育
 https://cdn.qd.je/163189.php?id=amty
 
