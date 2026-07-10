@@ -18,8 +18,6 @@ https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV13
 https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv13
 
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png" group-title="央视",CCTV4K
-https://t.freetv.fun/live/cctv-4kchao-gao-qing-4.m3u8
 
 ##EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/CCTV8k.png/revision/latest?cb=20220312212747" group-title="央视",CCTV8K
 #http://107.150.60.122/live/cctv8k.m3u8
@@ -43,17 +41,6 @@ https://cdn.qd.je/163189.php?id=jade
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/tvb-news-channel-hk.png" group-title="香港",無線新聞台
 https://cdn.qd.je/163189.php?id=wxxw
 
-##EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="TVB Drama" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720201504213005_11.png" group-title="香港",娛樂新聞台
-#http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-
-##EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="香港",TVB Plus
-#http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-
-##EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="香港",Pearl 明珠台
-#http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv
-
-##EXTINF:-1 tvg-id="HOY76" tvg-name="HOY76" tvg-logo="https://cdn.sanity.io/images/cuxyzk11/production/5404fecade653eed404e449be1cca378cfabcbe4-1921x888.png?fit=max&auto=format" group-title="香港",HOY76
-#https://cdn11.163189.xyz/163189/2c86601a7180416e
 
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://cdn.sanity.io/images/cuxyzk11/production/5404fecade653eed404e449be1cca378cfabcbe4-1921x888.png?fit=max&auto=format" group-title="香港",HOY77
 https://cdn.qd.je/163189.php?id=hoy
@@ -67,15 +54,7 @@ https://cdn.qd.je/163189.php?id=viu
 #EXTINF:-1 tvg-id="VIU6" tvg-name="ViuTV6" tvg-logo="https://epg.pw/media/images/channel/2025/01/31/large/20250131032218014298_55.png" group-title="香港",ViuTV6
 https://cdn.qd.je/163189.php?id=viu6
 
-##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/rthk-tv-31-hk.png" group-title="香港",RTHK31
-#https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#http://cdn.163189.xyz/163189/rthk31
 
-##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/rthk-tv-32-hk.png" group-title="香港",RTHK32
-#http://cdn.163189.xyz/163189/rthk32
-
-##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/rthk-tv-33-hk.png" group-title="香港",RTHK33
-#http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 #EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻台" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ60ahNHCR4fs3OAO_Wv-_HOlT7KebaRDdfdA&s" group-title="香港",Now新聞台
 https://cdn.qd.je/163189.php?id=now
@@ -223,14 +202,9 @@ https://cdn.qd.je/163189.php?id=viu
 https://stream1.freetv.fun/557a41a1bc75a24f26d92e63ef1e59c43d783425442ced985be4dfcbe4274241.ctv
 
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/250px-TTV_Home_Channel_with_HD_2016.png" group-title="世界杯",台視
-#rtmp://f13h.mine.nu/sat/tv071
 http://74.91.26.218:82/live/ttv.m3u8
 
-#EXTINF:-1 tvg-id="ELTA体育" tvg-name="ELTA体育" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_4ff53e627ce28c4ba535c0c8e2178da8.png" group-title="世界杯",ELTA體育
-https://t.freetv.fun/live/eltati-yu-1-1.php
-https://t.freetv.fun/live/eltati-yu-2.php
-https://t.freetv.fun/live/eltati-yu-3.php
-https://t.freetv.fun/live/eltati-yu-4.php
+
 
 #EXTINF:-1 tvg-id="澳门体育" tvg-name="澳门体育" tvg-logo="https://live.fanmingming.cn/tv/%E6%BE%B3%E8%A7%86%E6%BE%B3%E9%97%A8.png" group-title="世界杯",澳門體育
 https://cdn.qd.je/163189.php?id=amty
