@@ -33,8 +33,7 @@ https://cdn.qd.je/163189.php?id=fhhk
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="香港",翡翠台
 https://cdn.qd.je/163189.php?id=fct
-
-#http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1 tvg-id="华丽台" tvg-name="华丽台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="香港",翡翠華麗台
 https://cdn.qd.je/163189.php?id=jade
 
