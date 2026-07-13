@@ -42,8 +42,8 @@ https://cdn.qd.je/163189.php?id=jade
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/tvb-news-channel-hk.png" group-title="香港",無線新聞台
 https://cdn.qd.je/163189.php?id=wxxw
 
-##EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="TVB Drama" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720201504213005_11.png" group-title="香港",娛樂新聞台
-#http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="TVB Drama" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720201504213005_11.png" group-title="香港",娛樂新聞台
+https://cdn.qd.je/163189.php?id=ylxw
 
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="香港",TVB Plus
 https://cdn.qd.je/163189.php?id=tvbp
