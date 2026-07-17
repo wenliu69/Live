@@ -224,7 +224,8 @@ http://bztv.tvbus.cc:8081/cdnlive/cctv5.m3u8
 https://cdn.qd.je/163189.php?id=viu
 
 #EXTINF:-1 tvg-id="Now Sports" tvg-name="Now Sports" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d1/Now_Sports_4K_1.png/revision/latest/scale-to-width-down/1199?cb=20231007144452&path-prefix=vi" group-title="世界杯",香港：Now Sports 4K
-https://stream1.freetv.fun/557a41a1bc75a24f26d92e63ef1e59c43d783425442ced985be4dfcbe4274241.ctv
+https://stream1.freetv.fun/14a7e58fa0915637c965b8f286b813c6a5704aa882428664be500fabd5a05269.ctv
+#https://stream1.freetv.fun/557a41a1bc75a24f26d92e63ef1e59c43d783425442ced985be4dfcbe4274241.ctv
 
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/250px-TTV_Home_Channel_with_HD_2016.png" group-title="世界杯",台湾：台視
 http://74.91.26.218:82/live/ttv.m3u8
